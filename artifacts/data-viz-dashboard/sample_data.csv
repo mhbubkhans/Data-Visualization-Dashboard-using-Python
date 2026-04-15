@@ -1,0 +1,1201 @@
+Date,Category,Sub_Category,Region,Customer_Type,Value,Quantity,Revenue,Profit,Rating
+2022-01-01,Electronics,Cameras,North,Wholesale,2986.26,34,89554.02,22795.53,1.1
+2022-01-02,Books,Science,East,Online,3963.43,15,66733.81,7364.83,1.5
+2022-01-03,Sports,Cycling,West,Retail,3767.84,13,41258.74,6818.52,2.1
+2022-01-04,Home & Garden,Tools,East,Online,4463.78,7,32676.64,3070.35,
+2022-01-05,Home & Garden,Tools,South,Premium,4030.81,1,4427.73,955.62,
+2022-01-06,Food & Beverage,Dairy,Central,Retail,1243.86,25,34219.6,9198.4,1.4
+2022-01-07,Electronics,Tablets,South,Wholesale,2783.83,49,119496.44,18688.85,4.5
+2022-01-08,Books,History,West,Online,1494.09,11,13553.11,1342.1,1.9
+2022-01-09,Clothing,Women,East,Online,1655.63,22,35677.99,4208.28,1.4
+2022-01-10,Electronics,Cameras,North,Online,4660.4,46,188866.11,55797.45,1.0
+2022-01-11,Sports,Water Sports,,Online,3412.66,38,140017.74,18243.56,3.9
+2022-01-12,Food & Beverage,Frozen,North,Online,4873.21,1,4593.86,1297.36,2.0
+2022-01-13,Books,Science,,Online,2090.39,25,51201.05,7647.38,3.0
+2022-01-14,Books,Art,West,Retail,2691.81,8,18205.12,1941.03,1.4
+2022-01-15,Books,Fiction,South,Premium,2440.71,13,32586.56,8739.47,4.9
+2022-01-16,Books,Fiction,East,Wholesale,545.36,13,6197.87,1181.09,1.5
+2022-01-17,Sports,Team Sports,West,Retail,1191.14,31,39568.98,2349.73,2.6
+2022-01-18,Electronics,Accessories,,Wholesale,2642.91,10,21895.65,7400.35,4.4
+2022-01-19,Food & Beverage,Dairy,South,Wholesale,346.2,13,5357.32,505.33,2.0
+2022-01-20,Home & Garden,Kitchen,East,Retail,4658.0,12,60021.73,9364.72,2.1
+2022-01-21,Sports,Water Sports,South,Premium,627.98,18,9864.59,1631.98,4.2
+2022-01-22,Home & Garden,Kitchen,West,Retail,997.92,33,26530.75,5222.02,2.1
+2022-01-23,Clothing,Accessories,North,Wholesale,3828.95,20,71508.33,20425.15,1.0
+2022-01-24,Food & Beverage,Frozen,Central,Wholesale,493.7,17,7227.34,374.57,2.7
+2022-01-25,Books,Science,South,Premium,4502.39,26,103876.79,34252.5,1.1
+2022-01-26,Sports,Cycling,East,Online,3631.25,31,129352.76,31535.79,4.6
+2022-01-27,Home & Garden,Furniture,North,Premium,352.42,1,366.97,123.01,3.6
+2022-01-28,Books,Art,South,Retail,3462.32,44,132626.43,39153.56,3.3
+2022-01-29,Sports,Fitness,West,Premium,3161.83,45,145507.0,47777.44,
+2022-01-30,Home & Garden,Decor,South,Premium,3789.17,30,102570.44,23621.99,3.8
+2022-01-31,Home & Garden,Outdoor,North,Wholesale,4142.71,29,143022.63,22482.11,3.7
+2022-02-01,Clothing,Footwear,East,Online,3594.57,35,102296.43,18707.38,1.2
+2022-02-02,Electronics,Cameras,North,Retail,2935.02,22,70570.8,17459.9,4.5
+2022-02-03,Sports,Water Sports,South,Premium,1619.09,18,32326.07,5756.61,3.3
+2022-02-04,Food & Beverage,Frozen,East,Premium,3489.4,18,51934.74,13996.51,4.2
+2022-02-05,Electronics,Laptops,East,Wholesale,4785.29,8,33257.68,2579.28,2.1
+2022-02-06,Food & Beverage,Snacks,West,Online,2941.73,42,117834.97,35232.18,1.5
+2022-02-07,Books,Fiction,West,Wholesale,3325.08,16,61035.8,6790.64,3.8
+2022-02-08,Clothing,Women,Central,Retail,2191.27,14,31131.81,10372.63,4.2
+2022-02-09,Sports,Fitness,North,Online,3783.04,48,192866.53,18643.2,2.5
+2022-02-10,Electronics,Tablets,South,Online,4988.36,25,138826.7,12320.77,1.1
+2022-02-11,Books,History,,Premium,810.34,31,28417.59,8342.35,4.3
+2022-02-12,Books,Art,North,Premium,1020.0,13,13134.21,3882.61,1.8
+2022-02-13,Home & Garden,Kitchen,South,Wholesale,2701.79,14,37958.1,10310.48,2.4
+2022-02-14,Electronics,Cameras,East,Premium,2412.06,36,94406.3,31924.35,3.5
+2022-02-15,Food & Beverage,Dairy,Central,Online,2862.13,23,59597.42,7816.91,1.4
+2022-02-16,Home & Garden,Outdoor,West,Online,254.88,8,2328.17,693.78,1.3
+2022-02-17,Food & Beverage,Organic,West,Online,2027.34,41,67187.88,10455.25,1.1
+2022-02-18,Books,Non-Fiction,West,Premium,2919.06,20,51276.71,10830.65,4.7
+2022-02-19,Books,Art,North,Online,2930.1,33,108304.23,19893.32,2.2
+2022-02-20,Books,Non-Fiction,Central,Retail,3290.1,17,52357.85,2709.78,3.6
+2022-02-21,Clothing,Kids,Central,Retail,3603.88,28,86774.68,19293.37,5.0
+2022-02-22,Home & Garden,Furniture,North,Wholesale,3211.32,39,109548.96,30044.0,3.7
+2022-02-23,Home & Garden,Tools,East,Online,3953.31,44,176085.62,18025.13,3.1
+2022-02-24,Home & Garden,Tools,Central,Online,3127.56,11,39167.06,12905.42,3.1
+2022-02-25,Electronics,Phones,East,Wholesale,2692.16,33,73583.7,15387.81,2.5
+2022-02-26,Sports,Outdoor,Central,Online,3034.92,45,110922.25,11477.55,3.4
+2022-02-27,Electronics,Tablets,Central,Premium,514.95,32,16248.81,3961.2,4.8
+2022-02-28,Books,Science,East,Wholesale,1373.05,8,12988.78,1397.29,4.2
+2022-03-01,Books,Art,North,Wholesale,2641.72,10,24082.02,1663.1,2.7
+2022-03-02,Food & Beverage,Beverages,South,Online,4366.21,10,51681.44,13209.5,2.3
+2022-03-03,Books,Art,South,Wholesale,3398.47,6,23552.87,1959.8,4.5
+2022-03-04,Home & Garden,Kitchen,East,Premium,461.14,37,15582.1,1275.63,1.5
+2022-03-05,Food & Beverage,Dairy,East,Premium,2965.45,48,160387.56,43622.7,4.4
+2022-03-06,Home & Garden,Decor,East,Online,1116.47,26,31186.38,2075.79,2.0
+2022-03-07,Clothing,Men,North,Wholesale,3672.74,30,110703.25,32428.39,3.9
+2022-03-08,Food & Beverage,Snacks,South,Online,,38,152429.86,44028.55,4.2
+2022-03-09,Home & Garden,Decor,West,Retail,2971.35,21,70273.09,6494.5,2.9
+2022-03-10,Electronics,Cameras,North,Wholesale,2960.9,24,79392.28,16316.24,1.8
+2022-03-11,Home & Garden,Furniture,South,Retail,1699.57,29,54353.03,4293.22,4.4
+2022-03-12,Books,Non-Fiction,Central,Retail,2236.79,15,40238.81,9648.11,2.5
+2022-03-13,Clothing,Men,North,Retail,4321.9,4,17139.01,1180.52,2.3
+2022-03-14,Home & Garden,Outdoor,East,Online,3619.37,28,113784.08,37929.27,3.0
+2022-03-15,Electronics,Accessories,South,Retail,2603.57,41,122223.67,13728.07,2.7
+2022-03-16,Books,History,North,Online,1847.48,4,6537.43,1666.18,3.7
+2022-03-17,Home & Garden,Tools,East,Wholesale,261.39,11,2348.61,207.82,1.5
+2022-03-18,Clothing,Footwear,East,Wholesale,723.61,13,9048.52,1021.39,2.7
+2022-03-19,Clothing,Footwear,North,Premium,973.2,40,44482.82,8241.99,4.6
+2022-03-20,Sports,Fitness,North,Online,1873.18,25,42879.02,9516.09,1.1
+2022-03-21,Books,Art,North,Online,4721.28,27,137673.04,48138.61,2.8
+2022-03-22,Food & Beverage,Frozen,West,Online,2530.72,32,65024.46,3756.97,3.6
+2022-03-23,Home & Garden,Tools,Central,Retail,,14,15588.65,780.9,4.6
+2022-03-24,Electronics,Laptops,North,Retail,537.69,35,19688.72,3053.92,3.4
+2022-03-25,Books,Art,South,Online,1698.14,2,2893.3,462.49,4.3
+2022-03-26,Sports,Outdoor,South,Premium,4080.5,6,28367.05,8939.91,
+2022-03-27,Books,Fiction,South,Retail,1922.88,40,66340.1,21479.25,2.4
+2022-03-28,Electronics,Cameras,South,Retail,3864.8,33,148444.17,46634.85,4.8
+2022-03-29,Clothing,Women,North,Premium,4015.5,9,32039.68,2978.2,4.5
+2022-03-30,Books,Fiction,East,Premium,563.0,22,14834.85,2575.8,3.2
+2022-03-31,Books,History,South,Retail,3047.21,3,9524.66,2607.52,2.9
+2022-04-01,Home & Garden,Decor,South,Wholesale,4795.89,33,131951.01,18972.35,2.8
+2022-04-02,Books,Art,South,Online,2016.67,38,63307.74,15761.82,1.2
+2022-04-03,Food & Beverage,Organic,Central,Retail,264.21,14,3070.0,371.91,4.6
+2022-04-04,Home & Garden,Furniture,West,Wholesale,4617.28,18,86099.47,12658.84,4.3
+2022-04-05,Food & Beverage,Dairy,East,Wholesale,4419.49,12,59601.15,18364.84,2.8
+2022-04-06,Clothing,Kids,South,Online,2615.49,20,50279.4,6292.6,2.1
+2022-04-07,Clothing,Women,Central,Wholesale,2765.74,14,37865.97,12847.82,2.4
+2022-04-08,Books,History,Central,Wholesale,1066.59,13,14360.88,2037.49,1.5
+2022-04-09,Sports,Team Sports,North,Wholesale,4099.06,22,91371.15,5213.49,3.9
+2022-04-10,Electronics,Phones,Central,Premium,2498.01,43,115494.65,14606.64,3.2
+2022-04-11,Books,History,West,Retail,179.05,38,6727.11,681.87,1.9
+2022-04-12,Clothing,Kids,North,Retail,3418.24,15,55659.76,11245.95,3.5
+2022-04-13,Books,History,West,Retail,4752.98,47,267827.77,22447.94,4.9
+2022-04-14,Electronics,Cameras,North,Premium,4147.46,11,42890.17,10199.91,1.5
+2022-04-15,Books,History,North,Premium,1393.22,45,50462.26,15767.93,2.8
+2022-04-16,Books,History,North,Online,276.09,16,3755.93,596.28,3.0
+2022-04-17,Books,Non-Fiction,East,Retail,4702.35,27,129681.19,13039.16,1.7
+2022-04-18,Sports,Outdoor,West,Premium,4685.94,10,43940.21,7470.17,3.1
+2022-04-19,Home & Garden,Kitchen,East,Wholesale,2666.75,38,119171.02,34057.89,3.4
+2022-04-20,Books,Art,North,Premium,3215.16,16,54065.02,12296.89,1.6
+2022-04-21,Clothing,Kids,,Wholesale,2318.37,43,100501.59,8074.6,1.6
+2022-04-22,Books,Non-Fiction,Central,Premium,2104.63,5,11777.68,2486.93,4.4
+2022-04-23,Sports,Water Sports,Central,Premium,606.05,25,13688.18,2606.58,2.2
+2022-04-24,Home & Garden,Outdoor,West,Retail,492.8,8,4446.61,658.69,3.5
+2022-04-25,Sports,Cycling,North,Online,1171.33,44,41293.92,3429.38,3.5
+2022-04-26,Sports,Outdoor,Central,Wholesale,4184.84,21,92088.62,31709.2,4.4
+2022-04-27,Electronics,Accessories,West,Wholesale,737.7,34,29443.6,3027.18,4.0
+2022-04-28,Electronics,Tablets,East,Wholesale,1141.23,44,55995.97,6037.65,4.4
+2022-04-29,Clothing,Kids,North,Online,2747.58,27,84678.35,7932.23,3.5
+2022-04-30,Electronics,Laptops,Central,Wholesale,1083.5,3,3116.52,688.93,2.8
+2022-05-01,Home & Garden,Furniture,East,Online,824.4,11,10244.53,1875.78,2.6
+2022-05-02,Books,Non-Fiction,North,Online,2820.95,11,31661.38,3953.47,2.5
+2022-05-03,Sports,Team Sports,South,Premium,1846.79,45,87046.09,15566.19,2.7
+2022-05-04,Home & Garden,Outdoor,East,Premium,3134.53,45,116167.17,29280.7,1.5
+2022-05-05,Food & Beverage,Dairy,North,Retail,4561.9,24,96415.28,12968.83,2.7
+2022-05-06,Sports,Fitness,,Premium,763.46,44,34277.04,11125.43,2.6
+2022-05-07,Electronics,Accessories,East,Retail,4568.03,13,48904.26,6939.7,1.1
+2022-05-08,Books,Fiction,Central,Online,4513.42,34,168276.89,18418.53,2.1
+2022-05-09,Sports,Water Sports,North,Wholesale,,20,94225.14,31694.54,4.0
+2022-05-10,Sports,Outdoor,East,Online,3160.12,12,44297.74,12986.69,3.3
+2022-05-11,Sports,Team Sports,Central,Online,3104.53,13,33930.02,5189.3,4.2
+2022-05-12,Sports,Water Sports,Central,Premium,3199.67,21,79011.53,23895.42,3.2
+2022-05-13,Electronics,Tablets,Central,Wholesale,3455.57,17,48584.68,9991.16,4.4
+2022-05-14,Sports,Cycling,,Premium,92.25,11,1004.22,154.68,4.2
+2022-05-15,Books,Science,Central,Wholesale,4790.88,17,92529.65,27933.17,
+2022-05-16,Clothing,Accessories,Central,Retail,2932.16,7,16997.35,4685.31,4.9
+2022-05-17,Sports,Water Sports,South,Wholesale,3909.51,48,151493.66,21112.53,1.1
+2022-05-18,Electronics,Laptops,East,Online,1892.64,19,29126.98,6757.56,3.4
+2022-05-19,Home & Garden,Tools,East,Online,71.86,6,433.1,69.65,4.2
+2022-05-20,Home & Garden,Kitchen,East,Premium,2553.58,29,83283.79,4190.47,2.3
+2022-05-21,Food & Beverage,Organic,South,Retail,2540.88,44,95137.43,32208.27,3.4
+2022-05-22,Clothing,Men,Central,Wholesale,2190.58,18,33509.73,7200.86,2.4
+2022-05-23,Clothing,Men,,Premium,1705.19,42,73581.65,16889.18,1.2
+2022-05-24,Home & Garden,Kitchen,South,Wholesale,1256.63,30,33692.19,7748.11,1.0
+2022-05-25,Food & Beverage,Snacks,Central,Retail,2642.45,37,106773.91,22976.94,1.4
+2022-05-26,Food & Beverage,Dairy,South,Premium,1882.64,15,33318.61,4565.13,1.4
+2022-05-27,Electronics,Cameras,West,Wholesale,4849.96,2,10732.12,3664.73,3.4
+2022-05-28,Clothing,Footwear,East,Premium,872.91,17,17078.3,4039.03,3.1
+2022-05-29,Books,History,East,Premium,1605.13,46,74414.44,18698.59,2.8
+2022-05-30,Electronics,Tablets,North,Premium,1476.86,39,65253.85,12165.79,3.8
+2022-05-31,Food & Beverage,Snacks,West,Online,2721.11,39,92662.75,12635.35,1.1
+2022-06-01,Clothing,Women,South,Premium,2501.41,44,91058.64,6310.79,2.1
+2022-06-02,Food & Beverage,Organic,South,Premium,3222.26,19,65042.1,10086.02,4.1
+2022-06-03,Clothing,Accessories,North,Wholesale,4750.51,16,62386.05,6415.11,4.6
+2022-06-04,Home & Garden,Decor,Central,Retail,1433.25,46,76279.94,18965.21,2.8
+2022-06-05,Sports,Team Sports,North,Wholesale,3466.93,29,108244.59,33956.45,1.3
+2022-06-06,Electronics,Laptops,West,Online,134.95,15,2390.4,336.63,4.2
+2022-06-07,Sports,Fitness,Central,Online,1319.32,14,17095.44,2562.0,4.5
+2022-06-08,Sports,Fitness,North,Retail,2323.96,43,99377.0,24954.49,2.7
+2022-06-09,Books,Non-Fiction,East,Online,164.66,3,541.74,51.35,2.0
+2022-06-10,Food & Beverage,Snacks,East,Retail,3092.17,4,11096.09,3648.74,1.2
+2022-06-11,Sports,Fitness,South,Online,3394.77,37,127709.08,20325.42,3.4
+2022-06-12,Home & Garden,Decor,West,Online,3736.19,1,3974.51,319.39,4.6
+2022-06-13,Home & Garden,Decor,East,Online,2587.71,9,27749.85,2841.73,3.7
+2022-06-14,Home & Garden,Kitchen,East,Wholesale,3023.68,49,162662.45,53649.95,2.3
+2022-06-15,Books,Fiction,East,Wholesale,1986.37,21,35342.09,4387.22,3.6
+2022-06-16,Clothing,Women,Central,Online,215.85,36,7693.93,1913.33,4.3
+2022-06-17,Clothing,Kids,West,Online,508.76,24,12643.81,1224.55,2.9
+2022-06-18,Home & Garden,Outdoor,South,Premium,3278.43,5,14075.11,1523.36,4.3
+2022-06-19,Electronics,Accessories,Central,Wholesale,4977.82,10,48423.56,15193.93,2.6
+2022-06-20,Electronics,Cameras,Central,Wholesale,88.86,38,3084.94,291.25,2.4
+2022-06-21,Electronics,Laptops,,Wholesale,2792.34,5,11832.97,658.21,3.3
+2022-06-22,Books,Science,West,Online,3757.53,30,113268.88,22695.68,
+2022-06-23,Books,Science,South,Retail,,18,64484.74,19914.05,4.9
+2022-06-24,Books,Art,West,Wholesale,2730.57,19,53759.69,7945.54,3.1
+2022-06-25,Home & Garden,Outdoor,South,Retail,3103.38,47,126587.81,11196.52,2.5
+2022-06-26,Books,Art,South,Online,3486.66,30,113954.99,39276.78,2.6
+2022-06-27,Electronics,Accessories,East,Premium,4296.24,31,116947.93,29590.35,3.2
+2022-06-28,Food & Beverage,Organic,Central,Premium,620.22,18,12933.6,3947.43,2.4
+2022-06-29,Sports,Team Sports,,Wholesale,4631.65,19,71323.66,19659.76,3.9
+2022-06-30,Food & Beverage,Dairy,South,Retail,139.83,34,4796.05,1244.44,2.5
+2022-07-01,Electronics,Laptops,East,Retail,4182.64,2,7763.33,1283.82,2.5
+2022-07-02,Home & Garden,Decor,,Retail,392.93,12,4196.64,618.17,3.5
+2022-07-03,Books,Art,West,Premium,981.19,30,29101.34,7714.4,1.2
+2022-07-04,Home & Garden,Decor,South,Premium,29.43,31,1037.14,274.86,3.6
+2022-07-05,Home & Garden,Decor,East,Online,2231.83,5,13012.81,4361.59,3.0
+2022-07-06,Electronics,Tablets,South,Retail,1678.45,39,60307.85,13303.79,2.8
+2022-07-07,Home & Garden,Decor,South,Retail,838.3,27,19503.75,2699.05,3.9
+2022-07-08,Clothing,Accessories,Central,Premium,2260.94,12,29520.36,5811.34,4.0
+2022-07-09,Clothing,Accessories,South,Wholesale,2017.83,37,77108.51,18052.19,4.4
+2022-07-10,Books,Non-Fiction,North,Retail,3840.63,49,165684.46,29494.97,2.5
+2022-07-11,Sports,Team Sports,South,Retail,4466.72,21,103567.53,29759.09,2.3
+2022-07-12,Sports,Cycling,East,Wholesale,3266.31,14,46074.6,10384.48,3.9
+2022-07-13,Home & Garden,Tools,North,Online,630.81,15,10042.73,530.56,3.3
+2022-07-14,Food & Beverage,Beverages,South,Premium,1484.0,30,42015.11,9283.32,3.5
+2022-07-15,Electronics,Tablets,North,Wholesale,4567.46,3,13368.58,3209.54,3.2
+2022-07-16,Home & Garden,Tools,East,Online,452.79,24,9477.48,3076.19,4.1
+2022-07-17,Electronics,Accessories,West,Retail,2040.21,2,4499.1,783.37,1.8
+2022-07-18,Home & Garden,Furniture,Central,Retail,4713.1,2,8132.97,1808.29,3.2
+2022-07-19,Food & Beverage,Beverages,South,Retail,4753.82,22,116226.44,22373.5,1.6
+2022-07-20,Home & Garden,Outdoor,Central,Premium,2061.9,37,85384.34,17887.76,2.6
+2022-07-21,Food & Beverage,Beverages,South,Online,3340.31,44,161471.18,11333.86,3.7
+2022-07-22,Home & Garden,Decor,West,Premium,2289.16,5,9245.56,2951.04,3.0
+2022-07-23,Books,Non-Fiction,East,Retail,,12,41132.11,13290.76,2.5
+2022-07-24,Home & Garden,Furniture,West,Retail,167.59,21,3474.82,745.06,
+2022-07-25,Clothing,Men,West,Premium,729.34,29,21959.2,4764.41,4.1
+2022-07-26,Books,Non-Fiction,East,Retail,3074.85,49,175932.93,11834.45,3.1
+2022-07-27,Food & Beverage,Dairy,South,Retail,1170.44,34,37814.86,8674.17,4.8
+2022-07-28,Clothing,Men,East,Online,3333.6,27,103509.12,18501.79,2.7
+2022-07-29,Books,Non-Fiction,Central,Online,1762.6,3,4575.91,1202.15,4.2
+2022-07-30,Clothing,Men,Central,Retail,4434.36,4,16824.18,1079.06,1.7
+2022-07-31,Books,Science,,Wholesale,4098.1,8,26913.46,7085.41,2.1
+2022-08-01,Books,Non-Fiction,North,Online,2469.26,33,89389.33,12163.04,2.4
+2022-08-02,Home & Garden,Tools,East,Wholesale,3866.75,17,56549.05,13883.45,1.4
+2022-08-03,Books,Science,North,Wholesale,,12,14766.11,3516.37,
+2022-08-04,Clothing,Footwear,West,Retail,2476.36,33,90716.69,10709.33,1.8
+2022-08-05,Electronics,Accessories,Central,Wholesale,995.44,40,40370.53,7352.91,3.5
+2022-08-06,Electronics,Tablets,North,Premium,4305.82,22,76311.88,22946.22,1.8
+2022-08-07,Home & Garden,Outdoor,,Online,4117.11,44,145084.24,33612.75,1.5
+2022-08-08,Food & Beverage,Organic,Central,Premium,4511.73,36,163114.89,11519.42,4.9
+2022-08-09,Electronics,Cameras,Central,Retail,4388.61,36,145663.93,26637.95,3.6
+2022-08-10,Home & Garden,Outdoor,South,Retail,4798.39,43,179946.14,25827.93,4.7
+2022-08-11,Books,Science,North,Online,1149.4,10,12016.26,2913.87,3.0
+2022-08-12,Clothing,Footwear,Central,Retail,4659.8,38,157837.84,36992.33,1.1
+2022-08-13,Books,Non-Fiction,Central,Online,2860.35,47,139394.85,7404.58,3.3
+2022-08-14,Clothing,Accessories,East,Premium,2118.25,49,98781.65,22947.83,3.2
+2022-08-15,Books,History,Central,Wholesale,2806.27,29,71184.56,19252.21,1.1
+2022-08-16,Sports,Cycling,North,Online,1719.59,37,54414.62,15269.78,4.4
+2022-08-17,Sports,Outdoor,West,Online,1449.88,44,57079.96,3863.9,3.5
+2022-08-18,Clothing,Footwear,North,Retail,1214.16,42,41404.29,5842.04,4.0
+2022-08-19,Home & Garden,Kitchen,,Premium,421.32,44,17115.3,3018.83,3.0
+2022-08-20,Food & Beverage,Snacks,West,Retail,2487.86,41,118402.37,12305.74,3.5
+2022-08-21,Electronics,Phones,Central,Premium,4439.93,19,95539.98,16836.07,2.0
+2022-08-22,Books,Science,East,Online,3154.46,36,107746.43,7686.51,4.9
+2022-08-23,Home & Garden,Decor,North,Retail,,21,56465.44,4741.13,2.6
+2022-08-24,Books,Fiction,North,Online,2148.68,40,88262.98,22119.45,1.6
+2022-08-25,Sports,Team Sports,South,Retail,2327.36,40,105335.85,13564.28,1.2
+2022-08-26,Home & Garden,Tools,West,Online,1054.29,46,43381.65,11427.67,3.5
+2022-08-27,Clothing,Women,North,Premium,4116.45,29,109654.39,7065.31,4.9
+2022-08-28,Sports,Cycling,Central,Premium,999.93,24,22095.59,4834.76,4.6
+2022-08-29,Electronics,Accessories,South,Premium,3585.95,9,26346.45,4411.31,3.8
+2022-08-30,Sports,Team Sports,East,Wholesale,3802.33,32,112655.45,32567.72,5.0
+2022-08-31,Electronics,Cameras,South,Online,2878.6,28,92784.86,26460.89,
+2022-09-01,Sports,Team Sports,East,Wholesale,4316.0,26,130708.64,21262.1,2.4
+2022-09-02,Sports,Fitness,East,Premium,1462.34,34,41956.06,9935.79,3.4
+2022-09-03,Electronics,Phones,North,Wholesale,4409.27,42,182082.5,21533.93,1.3
+2022-09-04,Books,Art,East,Premium,3649.76,8,27812.33,6233.36,1.9
+2022-09-05,Home & Garden,Outdoor,West,Wholesale,3995.76,22,87532.56,6510.62,2.7
+2022-09-06,Books,History,Central,Online,3326.25,36,122365.96,22072.53,1.8
+2022-09-07,Electronics,Phones,South,Retail,4233.25,41,140257.07,14701.51,4.8
+2022-09-08,Clothing,Women,Central,Online,4965.56,39,220167.86,69356.04,5.0
+2022-09-09,Home & Garden,Furniture,Central,Retail,2106.61,40,100229.61,18389.15,2.5
+2022-09-10,Clothing,Men,Central,Retail,4071.44,42,181493.4,41241.13,3.8
+2022-09-11,Clothing,Women,South,Wholesale,3725.45,48,190298.53,30088.97,2.6
+2022-09-12,Sports,Team Sports,Central,Wholesale,2269.82,30,68856.71,9407.36,1.6
+2022-09-13,Electronics,Phones,East,Online,4635.48,13,56266.48,6238.6,2.3
+2022-09-14,Books,Art,North,Wholesale,1978.19,28,47612.17,15405.46,1.9
+2022-09-15,Electronics,Tablets,South,Retail,2831.67,35,102441.01,29691.48,2.3
+2022-09-16,Clothing,Women,West,Wholesale,538.65,5,2203.02,198.22,1.9
+2022-09-17,Sports,Team Sports,North,Wholesale,1136.62,38,48797.87,13371.47,1.4
+2022-09-18,Books,History,East,Online,4205.07,27,109945.11,19301.88,1.9
+2022-09-19,Clothing,Women,West,Online,1988.8,46,88365.32,4826.43,4.6
+2022-09-20,Clothing,Men,,Retail,1976.48,11,20238.27,4219.89,1.3
+2022-09-21,Food & Beverage,Snacks,East,Online,1237.45,45,66139.69,5887.35,2.3
+2022-09-22,Food & Beverage,Dairy,South,Online,2463.14,22,47142.7,5326.2,3.1
+2022-09-23,Sports,Fitness,East,Premium,4031.03,29,100595.04,26035.23,2.4
+2022-09-24,Home & Garden,Tools,South,Online,4476.87,33,127971.4,16270.62,3.1
+2022-09-25,Home & Garden,Decor,Central,Premium,359.87,29,11098.0,3524.35,1.2
+2022-09-26,Sports,Water Sports,North,Retail,2878.36,45,155011.53,38311.24,3.6
+2022-09-27,Sports,Fitness,Central,Online,2341.69,9,18845.24,5647.64,3.3
+2022-09-28,Clothing,Accessories,West,Retail,3075.27,36,128672.04,30180.91,3.7
+2022-09-29,Electronics,Accessories,Central,Retail,2241.91,48,98082.3,30469.74,3.3
+2022-09-30,Electronics,Tablets,Central,Premium,1999.24,11,23292.66,3692.01,2.8
+2022-10-01,Food & Beverage,Beverages,North,Wholesale,2364.68,13,25090.66,5388.02,2.4
+2022-10-02,Home & Garden,Outdoor,Central,Online,2914.18,24,69818.74,14296.58,1.9
+2022-10-03,Home & Garden,Decor,East,Online,2509.91,36,95943.34,30810.98,3.0
+2022-10-04,Home & Garden,Kitchen,Central,Online,,47,112817.53,11222.48,1.1
+2022-10-05,Books,Non-Fiction,Central,Retail,4091.0,39,142817.76,31908.09,2.3
+2022-10-06,Electronics,Laptops,East,Retail,3730.78,39,164619.0,45489.06,3.7
+2022-10-07,Electronics,Tablets,South,Retail,1713.48,22,44785.57,7211.15,1.4
+2022-10-08,Clothing,Men,North,Premium,4004.88,32,126064.45,39114.58,1.3
+2022-10-09,Home & Garden,Furniture,North,Retail,4269.72,11,49520.4,8017.57,3.6
+2022-10-10,Books,Non-Fiction,South,Online,775.93,23,19919.52,2031.64,2.6
+2022-10-11,Home & Garden,Furniture,Central,Wholesale,2917.59,10,26158.98,5891.38,4.2
+2022-10-12,Home & Garden,Kitchen,East,Retail,1433.71,2,3285.43,578.8,4.7
+2022-10-13,Food & Beverage,Dairy,East,Wholesale,3698.47,42,141678.68,7729.57,4.8
+2022-10-14,Electronics,Phones,South,Retail,1201.54,40,53364.35,3786.28,2.7
+2022-10-15,Sports,Fitness,East,Retail,3360.3,26,73811.79,8014.72,2.1
+2022-10-16,Sports,Fitness,West,Retail,1283.07,1,1174.46,329.79,3.4
+2022-10-17,Home & Garden,Kitchen,Central,Premium,2560.61,5,12975.23,4121.09,3.5
+2022-10-18,Books,Non-Fiction,West,Online,4743.75,6,28746.24,6142.85,3.5
+2022-10-19,Clothing,Kids,West,Premium,1912.72,36,78509.9,6411.88,2.3
+2022-10-20,Food & Beverage,Snacks,Central,Wholesale,4379.94,10,52491.43,11040.3,1.3
+2022-10-21,Clothing,Women,East,Retail,4934.85,13,54073.6,16583.38,1.8
+2022-10-22,Sports,Team Sports,Central,Online,4375.51,43,170941.88,46982.23,1.6
+2022-10-23,Sports,Team Sports,South,Premium,837.67,43,33968.1,4664.82,1.5
+2022-10-24,Food & Beverage,Organic,North,Online,4100.09,38,154489.59,13466.42,4.7
+2022-10-25,Home & Garden,Tools,East,Retail,170.43,16,2720.24,871.03,1.1
+2022-10-26,Clothing,Kids,North,Wholesale,1972.58,29,65355.25,20013.52,3.4
+2022-10-27,Electronics,Cameras,North,Premium,4354.96,10,48262.7,3190.87,4.8
+2022-10-28,Home & Garden,Kitchen,Central,Online,3446.87,43,119689.97,35560.17,2.4
+2022-10-29,Books,Non-Fiction,West,Premium,2668.37,5,13101.81,1037.19,3.1
+2022-10-30,Electronics,Laptops,South,Online,1945.44,37,75380.92,5200.16,3.8
+2022-10-31,Food & Beverage,Beverages,Central,Retail,4063.36,26,103973.72,28861.05,2.3
+2022-11-01,Sports,Team Sports,North,Premium,3550.7,38,114992.29,24251.09,
+2022-11-02,Electronics,Laptops,South,Premium,,23,51774.72,9027.67,4.3
+2022-11-03,Clothing,Accessories,West,Online,4463.5,8,34446.16,11062.68,4.0
+2022-11-04,Sports,Team Sports,South,Premium,1157.44,37,37475.82,11309.87,4.2
+2022-11-05,Clothing,Accessories,,Retail,860.25,31,29401.8,1978.36,4.9
+2022-11-06,Electronics,Accessories,Central,Premium,3217.59,23,68717.7,16136.71,2.5
+2022-11-07,Sports,Outdoor,North,Retail,4860.25,19,95631.75,26937.57,4.0
+2022-11-08,Books,Non-Fiction,North,Premium,1243.81,17,21277.81,4577.86,3.4
+2022-11-09,Electronics,Accessories,Central,Retail,1255.86,24,34691.0,11964.98,3.7
+2022-11-10,Clothing,Women,East,Online,706.1,13,7791.44,1993.16,4.0
+2022-11-11,Clothing,Women,East,Premium,4304.21,14,50961.3,4140.24,4.0
+2022-11-12,Sports,Cycling,East,Retail,1139.72,14,14681.63,1607.48,4.5
+2022-11-13,Books,Science,East,Retail,2520.86,1,2451.5,730.24,2.4
+2022-11-14,Books,Fiction,West,Premium,4954.45,46,209539.43,73134.92,3.6
+2022-11-15,Food & Beverage,Organic,East,Retail,70.58,12,936.12,74.42,2.1
+2022-11-16,Books,Science,North,Online,2786.87,9,22526.15,1804.32,3.4
+2022-11-17,Clothing,Accessories,West,Premium,2566.32,8,17120.64,4776.93,4.0
+2022-11-18,Electronics,Accessories,West,Online,4039.16,49,191094.58,13244.06,4.2
+2022-11-19,Sports,Fitness,,Wholesale,1782.85,24,47467.38,3349.68,2.7
+2022-11-20,Food & Beverage,Snacks,South,Wholesale,2057.6,17,39884.15,12629.11,3.0
+2022-11-21,Food & Beverage,Frozen,West,Online,848.01,20,18543.23,5380.04,2.3
+2022-11-22,Clothing,Men,West,Online,3706.67,5,18962.48,5963.11,1.7
+2022-11-23,Clothing,Women,North,Online,3925.7,16,68443.9,16779.3,2.0
+2022-11-24,Electronics,Phones,North,Retail,691.95,13,9648.01,1415.95,4.6
+2022-11-25,Electronics,Phones,East,Online,1973.35,40,70547.0,22708.65,2.2
+2022-11-26,Sports,Cycling,East,Online,4465.6,3,13668.8,1908.4,4.9
+2022-11-27,Sports,Fitness,Central,Online,23.51,21,547.15,72.58,2.0
+2022-11-28,Home & Garden,Furniture,East,Retail,1500.81,39,54249.9,17138.64,3.9
+2022-11-29,Clothing,Accessories,Central,Online,2779.66,41,120985.15,30760.08,3.3
+2022-11-30,Books,Fiction,South,Online,1677.13,26,43282.36,13794.16,3.8
+2022-12-01,Home & Garden,Outdoor,East,Retail,1367.51,11,15061.62,1457.52,3.6
+2022-12-02,Books,Fiction,North,Premium,2305.59,17,32767.91,10999.83,3.8
+2022-12-03,Food & Beverage,Snacks,East,Online,915.8,11,10743.58,2512.09,4.6
+2022-12-04,Clothing,Men,North,Wholesale,2652.83,33,100348.78,25128.39,3.3
+2022-12-05,Clothing,Footwear,East,Online,3536.41,15,45437.87,14731.78,1.3
+2022-12-06,Food & Beverage,Frozen,South,Online,2880.72,31,84519.49,13880.29,2.1
+2022-12-07,Sports,Team Sports,North,Online,474.62,33,12834.87,3412.44,3.8
+2022-12-08,Clothing,Women,North,Wholesale,4223.6,47,161160.24,39017.25,
+2022-12-09,Sports,Fitness,East,Premium,883.14,19,20066.18,5745.47,3.2
+2022-12-10,Sports,Team Sports,Central,Premium,3826.41,48,183188.05,58452.16,3.4
+2022-12-11,Food & Beverage,Beverages,North,Retail,1809.22,20,34093.22,8660.3,2.5
+2022-12-12,Clothing,Kids,East,Online,3915.98,34,121153.87,8516.13,4.1
+2022-12-13,Food & Beverage,Frozen,South,Retail,1039.3,33,40882.08,4290.25,3.9
+2022-12-14,Food & Beverage,Dairy,Central,Wholesale,941.44,41,34773.89,11690.75,3.9
+2022-12-15,Clothing,Kids,East,Premium,2490.16,23,62444.54,21268.31,3.9
+2022-12-16,Electronics,Phones,Central,Retail,174.35,39,6211.5,2113.3,
+2022-12-17,Sports,Outdoor,South,Wholesale,1134.23,18,16908.56,1032.1,3.4
+2022-12-18,Electronics,Cameras,North,Retail,3622.82,25,97210.28,16013.88,4.9
+2022-12-19,Clothing,Kids,East,Online,4188.54,25,83839.11,23299.04,1.5
+2022-12-20,Home & Garden,Tools,West,Wholesale,413.12,35,15475.67,4269.21,3.5
+2022-12-21,Food & Beverage,Organic,Central,Online,4411.57,31,123103.4,9327.87,3.9
+2022-12-22,Food & Beverage,Snacks,Central,Premium,3989.61,4,17529.42,4081.67,2.9
+2022-12-23,Electronics,Cameras,Central,Online,4349.72,40,192762.2,17900.07,2.2
+2022-12-24,Food & Beverage,Frozen,West,Online,3495.16,38,144722.1,28649.59,3.2
+2022-12-25,Electronics,Cameras,South,Retail,3374.02,6,16393.55,1998.47,2.5
+2022-12-26,Books,Art,East,Retail,2630.22,48,136539.3,9004.54,4.6
+2022-12-27,Food & Beverage,Beverages,North,Premium,3267.41,33,128964.42,9544.12,2.4
+2022-12-28,Food & Beverage,Beverages,East,Premium,4596.36,5,20615.83,6664.44,1.7
+2022-12-29,Clothing,Women,South,Online,511.6,25,11635.0,3180.94,3.3
+2022-12-30,Food & Beverage,Dairy,North,Wholesale,1585.66,41,73165.26,24111.41,2.6
+2022-12-31,Electronics,Tablets,South,Retail,371.55,14,4495.09,858.55,1.4
+2023-01-01,Sports,Team Sports,East,Premium,4724.58,46,231290.58,40241.73,3.3
+2023-01-02,Home & Garden,Outdoor,South,Premium,2231.87,21,51650.43,8136.09,3.2
+2023-01-03,Clothing,Footwear,Central,Retail,3379.97,12,33050.6,7763.33,1.7
+2023-01-04,Electronics,Cameras,East,Online,4207.19,18,77357.97,12026.67,3.4
+2023-01-05,Books,Art,Central,Online,4955.09,26,132742.52,36355.78,3.3
+2023-01-06,Home & Garden,Furniture,West,Wholesale,817.29,34,25603.1,7435.02,4.1
+2023-01-07,Sports,Outdoor,North,Premium,3999.57,46,211676.21,66202.45,2.4
+2023-01-08,Home & Garden,Tools,South,Retail,4438.24,10,38395.21,4716.48,2.0
+2023-01-09,Home & Garden,Outdoor,West,Wholesale,253.89,48,11524.71,2398.37,4.8
+2023-01-10,Food & Beverage,Snacks,East,Retail,3772.91,26,111776.81,13081.62,3.2
+2023-01-11,Electronics,Laptops,South,Online,1780.08,7,10918.65,668.95,1.1
+2023-01-12,Books,Science,East,Online,3246.5,46,168536.48,44215.14,4.3
+2023-01-13,Books,History,Central,Premium,2575.1,18,38547.44,8275.92,1.8
+2023-01-14,Home & Garden,Furniture,South,Online,1306.11,31,40314.97,10771.28,4.1
+2023-01-15,Clothing,Footwear,North,Retail,684.75,35,19895.16,1517.74,3.8
+2023-01-16,Electronics,Laptops,South,Wholesale,593.57,1,635.81,221.68,4.9
+2023-01-17,Food & Beverage,Beverages,Central,Retail,525.58,11,6453.41,2247.75,4.9
+2023-01-18,Food & Beverage,Organic,West,Online,3192.57,34,123737.87,23448.32,2.1
+2023-01-19,Clothing,Kids,Central,Online,1763.54,16,33648.48,10424.89,4.1
+2023-01-20,Electronics,Accessories,Central,Premium,1091.0,1,1166.07,143.51,2.3
+2023-01-21,Electronics,Laptops,North,Wholesale,3462.51,2,7670.32,2080.73,3.5
+2023-01-22,Electronics,Cameras,South,Wholesale,3437.38,41,141257.19,44321.95,3.4
+2023-01-23,Books,Fiction,North,Retail,2700.45,8,25170.24,7410.12,1.2
+2023-01-24,Food & Beverage,Dairy,North,Wholesale,4675.44,5,24721.47,7256.55,1.0
+2023-01-25,Electronics,Phones,Central,Wholesale,1933.22,28,62434.84,11794.44,
+2023-01-26,Books,History,Central,Premium,4180.96,6,22431.21,6639.57,1.5
+2023-01-27,Clothing,Women,North,Premium,384.95,33,12686.77,3263.18,2.0
+2023-01-28,Home & Garden,Decor,West,Retail,3701.76,27,109135.45,9793.32,4.6
+2023-01-29,Sports,Fitness,East,Wholesale,4942.35,32,139348.76,11740.87,3.1
+2023-01-30,Books,History,North,Online,4234.53,25,93639.85,26366.79,4.2
+2023-01-31,Food & Beverage,Snacks,Central,Wholesale,2902.53,39,134844.19,32044.27,4.4
+2023-02-01,Electronics,Accessories,Central,Retail,3137.56,32,97775.82,20123.52,3.9
+2023-02-02,Clothing,Footwear,East,Premium,1772.91,21,32492.56,10468.41,2.6
+2023-02-03,Clothing,Accessories,West,Online,3400.63,1,3171.38,786.11,4.5
+2023-02-04,Clothing,Footwear,South,Online,3854.27,14,51744.76,8736.79,4.0
+2023-02-05,Food & Beverage,Beverages,West,Wholesale,,7,36658.27,6385.12,4.0
+2023-02-06,Books,History,East,Premium,2467.39,1,2884.89,668.06,4.6
+2023-02-07,Clothing,Accessories,Central,Retail,315.91,14,5283.56,1469.27,3.4
+2023-02-08,Food & Beverage,Beverages,North,Wholesale,2983.33,11,34807.93,7633.59,3.1
+2023-02-09,Home & Garden,Furniture,North,Premium,603.93,4,2608.9,528.64,4.6
+2023-02-10,Sports,Cycling,Central,Premium,1231.38,16,18297.95,4905.14,2.8
+2023-02-11,Home & Garden,Furniture,South,Wholesale,1650.61,25,47160.55,12336.23,4.2
+2023-02-12,Electronics,Tablets,South,Online,3657.84,9,29204.47,8735.18,1.2
+2023-02-13,Food & Beverage,Beverages,West,Retail,927.2,14,10937.0,752.09,1.0
+2023-02-14,Electronics,Phones,North,Retail,837.11,1,995.58,275.26,3.1
+2023-02-15,Clothing,Footwear,East,Wholesale,234.37,3,805.52,164.43,1.3
+2023-02-16,Clothing,Men,South,Premium,4367.47,8,32195.52,2331.21,4.9
+2023-02-17,Clothing,Footwear,North,Online,3470.59,23,85416.67,21670.47,1.0
+2023-02-18,Electronics,Accessories,Central,Wholesale,209.33,33,6816.76,1806.18,3.9
+2023-02-19,Electronics,Phones,North,Wholesale,151.18,39,5478.88,1134.61,2.0
+2023-02-20,Books,Fiction,North,Retail,2797.78,31,79333.85,22859.23,4.9
+2023-02-21,Food & Beverage,Frozen,West,Wholesale,1419.85,31,37607.2,5267.81,2.5
+2023-02-22,Electronics,Tablets,Central,Retail,2987.66,46,140143.52,15495.97,1.1
+2023-02-23,Clothing,Men,North,Retail,2178.67,13,27717.7,4302.35,1.1
+2023-02-24,Sports,Cycling,West,Online,4617.33,40,185593.5,32110.49,3.2
+2023-02-25,Food & Beverage,Beverages,East,Retail,1446.17,46,58949.61,15254.98,4.9
+2023-02-26,Books,Fiction,Central,Retail,3398.94,28,111867.41,33969.21,4.9
+2023-02-27,Books,Art,North,Online,279.73,42,12399.96,3301.81,2.3
+2023-02-28,Sports,Fitness,Central,Wholesale,4779.74,7,38806.14,3965.84,2.9
+2023-03-01,Home & Garden,Kitchen,West,Wholesale,4903.98,44,182051.3,29103.65,1.4
+2023-03-02,Clothing,Accessories,Central,Retail,3697.98,28,108631.6,10594.2,3.1
+2023-03-03,Food & Beverage,Organic,South,Retail,2331.41,11,29230.36,7483.48,3.4
+2023-03-04,Books,Science,Central,Wholesale,1107.77,4,4131.4,514.16,2.0
+2023-03-05,Electronics,Laptops,West,Online,4064.46,36,128477.83,26674.06,3.4
+2023-03-06,Books,Fiction,North,Wholesale,3684.41,22,73438.35,21117.12,4.6
+2023-03-07,Electronics,Tablets,Central,Online,1117.55,16,16256.75,4085.03,1.0
+2023-03-08,Books,Art,West,Online,2261.56,20,44275.9,6177.03,1.9
+2023-03-09,Books,Fiction,South,Wholesale,2319.37,49,105737.5,15845.82,1.8
+2023-03-10,Electronics,Cameras,East,Wholesale,4133.79,21,78867.35,19402.1,1.5
+2023-03-11,Home & Garden,Kitchen,South,Wholesale,3422.38,4,14502.74,3115.77,1.7
+2023-03-12,Electronics,Tablets,East,Retail,3219.41,14,37013.5,2921.03,3.5
+2023-03-13,Sports,Fitness,Central,Online,3252.64,8,24359.55,7604.99,1.4
+2023-03-14,Food & Beverage,Frozen,Central,Online,1359.65,34,49736.85,10135.57,4.0
+2023-03-15,Electronics,Phones,South,Wholesale,1864.84,40,64921.79,12465.52,4.5
+2023-03-16,Home & Garden,Decor,Central,Wholesale,237.85,42,8874.56,972.05,4.7
+2023-03-17,Food & Beverage,Frozen,East,Wholesale,3936.84,32,110895.01,18086.77,3.6
+2023-03-18,Clothing,Men,West,Online,2170.66,38,66018.62,9892.72,1.8
+2023-03-19,Electronics,Tablets,West,Premium,2196.81,21,45648.94,5990.09,1.3
+2023-03-20,Home & Garden,Kitchen,East,Retail,1234.33,31,31207.68,6872.62,1.9
+2023-03-21,Sports,Fitness,East,Wholesale,1055.04,6,5755.3,1085.93,4.8
+2023-03-22,Sports,Outdoor,East,Retail,2943.23,27,95195.47,30154.05,4.8
+2023-03-23,Clothing,Women,Central,Wholesale,1170.44,28,38257.05,12716.77,2.5
+2023-03-24,Food & Beverage,Frozen,South,Retail,330.4,2,585.49,67.82,2.3
+2023-03-25,Sports,Cycling,South,Wholesale,3839.86,27,95796.93,7666.78,3.0
+2023-03-26,Clothing,Accessories,South,Wholesale,1888.58,36,67001.81,19135.8,2.2
+2023-03-27,Food & Beverage,Snacks,North,Wholesale,1907.38,19,41232.87,14367.94,4.9
+2023-03-28,Food & Beverage,Snacks,South,Wholesale,2162.28,27,65449.14,20229.02,1.9
+2023-03-29,Home & Garden,Furniture,North,Premium,4077.07,15,52013.01,2970.42,2.5
+2023-03-30,Electronics,Tablets,North,Premium,1610.98,14,19165.69,2402.98,2.7
+2023-03-31,Sports,Fitness,West,Retail,3792.6,7,25663.96,1616.9,1.5
+2023-04-01,Sports,Outdoor,North,Wholesale,4698.33,17,91695.66,27163.36,2.5
+2023-04-02,Electronics,Cameras,East,Premium,3307.73,40,152530.54,34231.22,4.4
+2023-04-03,Sports,Cycling,West,Online,2164.09,46,83913.74,17128.1,1.6
+2023-04-04,Food & Beverage,Dairy,West,Retail,3741.47,32,123285.2,26670.9,3.3
+2023-04-05,Electronics,Laptops,East,Online,2294.91,31,61343.8,7713.09,2.6
+2023-04-06,Books,History,North,Retail,2077.99,31,69213.7,15953.17,1.7
+2023-04-07,Electronics,Accessories,Central,Retail,2631.16,24,73666.58,4361.07,
+2023-04-08,Books,Fiction,Central,Online,1595.43,21,32897.87,8020.62,2.1
+2023-04-09,Home & Garden,Kitchen,West,Online,530.21,31,13695.44,3702.29,1.2
+2023-04-10,Electronics,Tablets,North,Premium,2080.11,39,83696.07,21083.7,2.5
+2023-04-11,Food & Beverage,Beverages,North,Wholesale,628.05,21,12706.42,1901.33,4.2
+2023-04-12,Electronics,Accessories,South,Premium,2058.1,28,64793.24,19300.54,3.9
+2023-04-13,Sports,Water Sports,North,Wholesale,2789.1,24,62663.57,16584.74,4.8
+2023-04-14,Clothing,Kids,Central,Online,4654.25,14,74930.75,6630.56,2.7
+2023-04-15,Food & Beverage,Frozen,South,Retail,190.75,15,2602.25,282.46,3.8
+2023-04-16,Books,History,South,Retail,3111.08,4,10739.54,2589.65,3.7
+2023-04-17,Books,Science,Central,Premium,2294.1,22,46563.41,6371.03,1.9
+2023-04-18,Home & Garden,Decor,Central,Premium,111.1,35,3165.11,271.66,
+2023-04-19,Home & Garden,Tools,South,Premium,1255.25,34,38944.06,3757.74,3.1
+2023-04-20,Sports,Water Sports,South,Wholesale,601.24,49,31347.63,3124.89,4.2
+2023-04-21,Books,Art,East,Retail,1091.8,2,1871.16,361.76,2.8
+2023-04-22,Food & Beverage,Snacks,West,Premium,1380.11,38,44291.52,10285.18,1.9
+2023-04-23,Electronics,Tablets,Central,Online,2012.52,39,66946.9,6890.22,5.0
+2023-04-24,Sports,Cycling,Central,Retail,2649.91,22,48446.86,12777.81,1.5
+2023-04-25,Electronics,Tablets,Central,Premium,14.94,14,240.5,32.3,4.8
+2023-04-26,Clothing,Accessories,North,Premium,817.73,18,17333.94,2486.86,4.2
+2023-04-27,Books,Fiction,South,Wholesale,476.9,34,13273.67,1553.68,4.4
+2023-04-28,Clothing,Men,East,Premium,2752.87,43,130687.64,37319.4,4.2
+2023-04-29,Books,History,North,Premium,1652.08,32,57881.52,19560.72,1.8
+2023-04-30,Home & Garden,Decor,South,Online,2746.5,26,85602.52,16927.89,3.5
+2023-05-01,Clothing,Kids,North,Online,1116.9,32,33565.91,2101.53,4.0
+2023-05-02,Home & Garden,Kitchen,Central,Wholesale,130.9,4,478.68,61.35,4.0
+2023-05-03,Sports,Team Sports,North,Premium,4707.42,30,138572.25,13499.03,2.1
+2023-05-04,Books,Art,North,Premium,550.46,3,1886.92,571.41,1.7
+2023-05-05,Sports,Fitness,North,Premium,643.03,47,32985.87,2488.99,2.3
+2023-05-06,Food & Beverage,Frozen,North,Online,741.27,44,32245.67,10961.69,2.9
+2023-05-07,Food & Beverage,Dairy,East,Retail,4906.57,25,110131.05,24950.64,3.3
+2023-05-08,Books,History,South,Wholesale,3092.12,19,64085.18,13158.09,4.3
+2023-05-09,Sports,Outdoor,Central,Wholesale,,36,125590.73,38205.35,4.1
+2023-05-10,Clothing,Men,South,Premium,4933.62,32,151557.73,8830.4,3.7
+2023-05-11,Home & Garden,Tools,East,Online,451.31,35,16861.03,4774.13,2.1
+2023-05-12,Electronics,Tablets,West,Online,4872.76,26,121634.83,10336.68,2.9
+2023-05-13,Home & Garden,Furniture,West,Retail,1028.03,12,12230.23,3696.38,2.3
+2023-05-14,Food & Beverage,Beverages,West,Premium,,4,12600.84,2630.46,1.9
+2023-05-15,Home & Garden,Outdoor,South,Wholesale,2106.22,14,32739.22,2237.36,1.0
+2023-05-16,Electronics,Laptops,East,Retail,1925.92,26,59638.16,17889.87,2.4
+2023-05-17,Sports,Fitness,Central,Premium,4656.9,21,95618.62,5564.45,2.0
+2023-05-18,Food & Beverage,Frozen,Central,Retail,754.65,25,17676.28,1617.58,3.3
+2023-05-19,Food & Beverage,Snacks,West,Retail,4985.37,14,66266.08,19173.92,1.2
+2023-05-20,Clothing,Accessories,West,Retail,1901.83,46,74672.61,14147.57,2.1
+2023-05-21,Home & Garden,Outdoor,Central,Wholesale,3247.39,18,53705.2,16885.81,1.2
+2023-05-22,Sports,Cycling,West,Retail,4839.85,42,169647.95,40822.18,3.6
+2023-05-23,Clothing,Accessories,Central,Premium,297.43,20,5777.03,1369.49,3.3
+2023-05-24,Clothing,Women,North,Online,4615.09,22,88022.43,12118.09,2.3
+2023-05-25,Clothing,Women,South,Wholesale,2843.38,30,80060.71,7213.8,1.6
+2023-05-26,Food & Beverage,Beverages,North,Retail,3524.94,13,51205.41,17325.44,4.8
+2023-05-27,Books,Science,North,Wholesale,754.43,11,7455.34,607.16,3.3
+2023-05-28,Food & Beverage,Dairy,East,Retail,2671.6,19,53032.33,11068.02,3.7
+2023-05-29,Books,History,South,Premium,3370.83,40,156470.23,20618.17,3.1
+2023-05-30,Food & Beverage,Frozen,East,Wholesale,2286.67,8,18783.1,2427.57,4.2
+2023-05-31,Electronics,Cameras,East,Wholesale,783.38,22,15123.44,3453.83,4.6
+2023-06-01,Food & Beverage,Frozen,West,Retail,1228.15,33,38012.36,11000.03,2.5
+2023-06-02,Electronics,Laptops,Central,Retail,4273.42,35,154976.3,43882.14,3.8
+2023-06-03,Home & Garden,Kitchen,,Retail,182.01,22,4014.81,1247.16,1.9
+2023-06-04,Sports,Team Sports,South,Retail,3547.22,4,12194.6,1681.28,3.6
+2023-06-05,Home & Garden,Furniture,South,Online,4996.96,1,4890.62,927.87,2.6
+2023-06-06,Electronics,Accessories,West,Premium,47.34,24,1155.73,61.02,1.0
+2023-06-07,Clothing,Footwear,North,Premium,813.62,40,29515.96,8089.06,4.8
+2023-06-08,Books,History,East,Wholesale,3373.98,2,7051.47,992.16,4.5
+2023-06-09,Clothing,Kids,East,Premium,309.35,44,11271.11,2462.15,2.2
+2023-06-10,Clothing,Footwear,North,Online,2953.05,34,93841.6,9458.3,5.0
+2023-06-11,Food & Beverage,Dairy,West,Retail,3423.16,1,3839.8,1135.89,2.3
+2023-06-12,Electronics,Tablets,South,Retail,2944.85,17,45242.13,13354.65,2.8
+2023-06-13,Food & Beverage,Organic,North,Online,1832.27,11,21002.9,6578.86,4.4
+2023-06-14,Food & Beverage,Snacks,West,Wholesale,3489.44,47,158101.5,10083.89,2.2
+2023-06-15,Sports,Water Sports,North,Retail,2975.53,28,77198.2,26844.72,2.8
+2023-06-16,Electronics,Cameras,West,Premium,1046.11,16,19523.8,2427.47,3.7
+2023-06-17,Electronics,Accessories,North,Online,2820.05,14,37005.45,5285.49,1.5
+2023-06-18,Clothing,Accessories,East,Online,4410.72,28,110491.93,13789.47,2.7
+2023-06-19,Sports,Cycling,Central,Premium,3337.5,1,3883.92,505.92,2.2
+2023-06-20,Electronics,Accessories,South,Premium,2364.24,13,33758.77,7285.09,3.7
+2023-06-21,Home & Garden,Kitchen,West,Premium,1614.7,9,15589.09,1900.98,1.5
+2023-06-22,Electronics,Phones,West,Wholesale,438.57,31,11145.92,1873.98,1.9
+2023-06-23,Sports,Fitness,Central,Premium,1230.69,33,34621.65,8540.54,3.8
+2023-06-24,Electronics,Laptops,North,Online,65.82,23,1597.63,480.58,1.6
+2023-06-25,Books,Science,West,Online,4933.26,7,30519.18,7868.53,2.7
+2023-06-26,Electronics,Accessories,Central,Premium,1120.19,19,18947.84,4325.73,3.9
+2023-06-27,Clothing,Kids,,Retail,4076.23,42,190317.25,17950.45,4.1
+2023-06-28,Clothing,Men,North,Wholesale,851.54,10,7786.23,2295.65,1.4
+2023-06-29,Books,Non-Fiction,Central,Retail,1425.17,9,10628.51,650.28,4.4
+2023-06-30,Electronics,Cameras,North,Wholesale,2097.2,6,10249.93,1324.88,3.9
+2023-07-01,Home & Garden,Outdoor,East,Wholesale,1628.78,41,65262.15,4380.24,2.4
+2023-07-02,Sports,Outdoor,East,Premium,3993.77,6,25085.3,6277.06,4.1
+2023-07-03,Sports,Cycling,East,Premium,,29,159369.8,25580.66,3.9
+2023-07-04,Books,History,East,Wholesale,4377.72,49,181114.01,44484.24,3.4
+2023-07-05,Books,Art,North,Wholesale,776.35,32,21828.95,3364.04,3.2
+2023-07-06,Home & Garden,Outdoor,East,Online,3885.68,21,82571.96,15418.02,3.9
+2023-07-07,Books,History,Central,Premium,748.26,11,7783.46,1458.53,5.0
+2023-07-08,Clothing,Women,East,Premium,4567.77,1,4535.86,288.82,3.3
+2023-07-09,Food & Beverage,Frozen,South,Retail,2594.21,8,24274.54,4346.79,4.2
+2023-07-10,Sports,Outdoor,Central,Retail,1688.54,47,80786.45,19576.12,
+2023-07-11,Books,Non-Fiction,North,Online,793.56,8,6132.94,1311.32,4.4
+2023-07-12,Food & Beverage,Frozen,East,Wholesale,68.93,1,82.42,5.98,4.8
+2023-07-13,Books,Science,East,Retail,1247.26,40,41213.77,10320.62,1.8
+2023-07-14,Food & Beverage,Organic,East,Retail,4570.96,21,112581.62,16060.76,1.7
+2023-07-15,Sports,Outdoor,Central,Wholesale,3988.34,18,71837.84,3902.98,3.3
+2023-07-16,Electronics,Tablets,East,Wholesale,4849.27,36,174836.02,16902.91,2.8
+2023-07-17,Home & Garden,Furniture,Central,Online,512.8,26,15583.19,3105.23,3.3
+2023-07-18,Clothing,Footwear,North,Retail,2964.97,45,133814.53,19151.6,4.2
+2023-07-19,Food & Beverage,Organic,West,Online,1293.18,23,29010.35,7493.81,4.7
+2023-07-20,Clothing,Accessories,East,Online,2719.28,35,86513.46,10571.6,2.7
+2023-07-21,Clothing,Kids,South,Wholesale,1609.07,44,75296.71,21221.54,3.9
+2023-07-22,Clothing,Kids,South,Retail,1424.49,23,33675.99,4578.02,1.8
+2023-07-23,Sports,Fitness,West,Online,2873.49,14,35632.24,8418.44,3.1
+2023-07-24,Sports,Fitness,West,Online,924.76,48,48106.69,13939.63,1.1
+2023-07-25,Food & Beverage,Beverages,West,Wholesale,2350.98,12,29837.74,4943.12,3.0
+2023-07-26,Home & Garden,Decor,North,Wholesale,3257.55,2,6247.55,400.1,3.2
+2023-07-27,Clothing,Women,East,Online,649.63,29,15104.58,3181.53,3.9
+2023-07-28,Electronics,Laptops,Central,Wholesale,4653.67,49,223157.39,77797.74,3.6
+2023-07-29,Electronics,Accessories,North,Wholesale,2533.57,5,10164.98,3463.18,2.4
+2023-07-30,Home & Garden,Furniture,East,Wholesale,4099.44,42,142906.37,16620.96,1.0
+2023-07-31,Food & Beverage,Beverages,East,Wholesale,3272.99,41,130467.94,36101.65,1.5
+2023-08-01,Sports,Fitness,Central,Online,3552.9,46,136102.1,20889.71,4.9
+2023-08-02,Food & Beverage,Beverages,South,Wholesale,3583.49,21,68500.52,6718.65,4.7
+2023-08-03,Electronics,Accessories,East,Wholesale,4376.75,13,60436.59,15095.51,2.3
+2023-08-04,Electronics,Phones,West,Online,3071.89,26,73754.85,14770.19,2.0
+2023-08-05,Food & Beverage,Beverages,North,Wholesale,1398.3,7,11736.51,2485.43,2.7
+2023-08-06,Electronics,Phones,Central,Retail,506.55,42,24817.85,7401.12,3.8
+2023-08-07,Electronics,Cameras,Central,Premium,3035.19,33,103579.17,15636.63,2.4
+2023-08-08,Home & Garden,Tools,West,Retail,341.1,24,9715.45,2430.11,1.3
+2023-08-09,Food & Beverage,Beverages,West,Online,1214.05,26,36211.93,5788.75,2.6
+2023-08-10,Books,Fiction,West,Wholesale,312.93,35,10159.14,638.17,2.0
+2023-08-11,Electronics,Phones,West,Retail,2748.95,26,78608.43,12844.97,2.3
+2023-08-12,Food & Beverage,Organic,Central,Retail,810.09,42,29081.24,9742.52,1.7
+2023-08-13,Food & Beverage,Frozen,East,Premium,3055.93,46,150949.94,29432.03,3.6
+2023-08-14,Books,Science,East,Wholesale,3956.42,47,185288.4,15280.57,3.1
+2023-08-15,Food & Beverage,Dairy,West,Wholesale,4111.18,31,102815.03,26356.43,2.1
+2023-08-16,Clothing,Women,North,Online,1554.62,37,52326.33,17739.35,3.2
+2023-08-17,Food & Beverage,Beverages,Central,Retail,2749.28,16,52001.11,16764.3,3.0
+2023-08-18,Clothing,Kids,West,Online,2819.42,2,5223.44,1157.45,4.2
+2023-08-19,Books,Non-Fiction,West,Wholesale,2369.71,20,41355.32,6736.13,4.8
+2023-08-20,Sports,Cycling,South,Online,3279.02,43,123374.9,27661.06,1.5
+2023-08-21,Books,Fiction,South,Retail,1058.33,7,7346.71,2165.66,4.5
+2023-08-22,Sports,Team Sports,East,Premium,4896.42,27,150323.09,46355.31,3.8
+2023-08-23,Sports,Team Sports,West,Retail,499.42,10,5509.6,1628.93,3.8
+2023-08-24,Sports,Fitness,West,Online,4147.81,22,88946.87,16601.3,2.5
+2023-08-25,Books,Science,West,Online,2974.54,8,21023.83,1800.85,2.4
+2023-08-26,Books,Science,Central,Wholesale,1231.83,37,37301.98,8234.49,1.0
+2023-08-27,Electronics,Laptops,Central,Retail,3730.92,40,147006.03,14249.1,4.9
+2023-08-28,Books,Fiction,West,Wholesale,431.56,38,18464.12,1260.87,3.4
+2023-08-29,Sports,Fitness,South,Premium,3874.34,35,148060.03,29552.83,2.6
+2023-08-30,Clothing,Men,East,Premium,2954.03,12,34152.38,8422.39,3.2
+2023-08-31,Sports,Team Sports,East,Premium,562.64,26,15182.79,4649.64,1.2
+2023-09-01,Food & Beverage,Snacks,West,Retail,406.73,6,2378.15,677.42,1.7
+2023-09-02,Food & Beverage,Dairy,Central,Online,3756.67,19,73632.69,22617.91,3.5
+2023-09-03,Food & Beverage,Beverages,South,Retail,1471.75,25,37051.38,10301.05,3.1
+2023-09-04,Home & Garden,Tools,East,Online,4447.62,33,157395.75,41075.86,4.1
+2023-09-05,Books,History,North,Wholesale,3812.74,5,19122.48,1014.28,3.6
+2023-09-06,Home & Garden,Kitchen,West,Online,3493.97,40,164390.51,39097.11,3.4
+2023-09-07,Books,Art,East,Online,1400.24,23,31278.36,2694.46,4.3
+2023-09-08,Sports,Fitness,East,Premium,3547.63,44,125870.36,8508.85,1.3
+2023-09-09,Clothing,Women,East,Wholesale,4741.26,26,110273.58,10688.12,
+2023-09-10,Clothing,Women,South,Wholesale,466.88,27,12608.82,3744.66,3.9
+2023-09-11,Electronics,Phones,East,Online,1637.55,34,56580.26,15455.17,2.1
+2023-09-12,Electronics,Laptops,West,Retail,1181.01,41,49436.03,16542.86,1.8
+2023-09-13,Home & Garden,Decor,South,Retail,1972.32,8,17132.69,5888.38,1.9
+2023-09-14,Home & Garden,Tools,North,Online,3714.24,26,87865.33,27939.87,1.8
+2023-09-15,Electronics,Laptops,South,Premium,2376.47,2,5066.45,455.36,3.1
+2023-09-16,Home & Garden,Outdoor,North,Online,2857.95,24,74188.69,23259.25,1.5
+2023-09-17,Sports,Water Sports,South,Premium,1577.63,40,60865.74,18356.57,3.6
+2023-09-18,Clothing,Accessories,West,Retail,715.03,43,29543.12,9197.53,1.4
+2023-09-19,Home & Garden,Furniture,North,Wholesale,1342.0,14,16375.06,1563.91,1.1
+2023-09-20,Home & Garden,Outdoor,West,Online,4299.8,19,78885.44,6708.22,2.3
+2023-09-21,Sports,Water Sports,South,Wholesale,3016.06,28,94138.3,30796.65,1.8
+2023-09-22,Home & Garden,Outdoor,Central,Retail,1896.16,20,44127.03,4507.49,5.0
+2023-09-23,Books,Non-Fiction,West,Retail,,9,36896.4,5925.06,2.2
+2023-09-24,Clothing,Accessories,South,Premium,,15,4575.38,854.66,1.9
+2023-09-25,Home & Garden,Kitchen,East,Online,1276.92,20,27400.56,2392.97,1.8
+2023-09-26,Home & Garden,Furniture,North,Wholesale,1158.21,26,33006.11,1854.62,2.5
+2023-09-27,Clothing,Kids,North,Wholesale,4926.97,46,211429.66,73625.55,3.4
+2023-09-28,Books,Fiction,Central,Retail,3533.43,27,107864.02,33761.13,
+2023-09-29,Clothing,Accessories,Central,Premium,3092.75,19,48742.01,15777.86,2.5
+2023-09-30,Clothing,Women,North,Retail,34.87,33,925.52,125.29,3.5
+2023-10-01,Books,Non-Fiction,South,Premium,929.71,38,30000.96,3481.03,2.9
+2023-10-02,Food & Beverage,Organic,North,Retail,3181.35,22,60359.35,10729.48,4.4
+2023-10-03,Books,Science,South,Wholesale,1904.8,24,52644.33,9791.62,3.3
+2023-10-04,Food & Beverage,Snacks,South,Wholesale,4622.16,11,49318.08,2548.75,2.2
+2023-10-05,Food & Beverage,Dairy,South,Premium,3825.97,43,149705.71,42482.88,3.8
+2023-10-06,Home & Garden,Outdoor,East,Retail,2242.45,43,93689.77,32697.74,4.3
+2023-10-07,Books,History,North,Wholesale,3750.08,9,32331.04,6744.49,2.9
+2023-10-08,Clothing,Footwear,Central,Wholesale,,17,76328.98,12707.07,4.9
+2023-10-09,Home & Garden,Kitchen,West,Wholesale,2310.29,14,27659.34,4641.94,4.5
+2023-10-10,Sports,Team Sports,West,Retail,3216.2,46,157171.98,12388.79,1.8
+2023-10-11,Food & Beverage,Organic,North,Premium,4594.14,4,15705.38,2039.32,4.1
+2023-10-12,Food & Beverage,Snacks,West,Wholesale,1250.89,11,15275.7,3064.91,3.4
+2023-10-13,Home & Garden,Furniture,Central,Wholesale,4433.92,16,62477.49,11218.11,3.1
+2023-10-14,Sports,Outdoor,North,Wholesale,496.75,28,15196.26,3244.56,3.1
+2023-10-15,Clothing,Kids,West,Premium,3245.76,13,47352.55,14429.25,4.4
+2023-10-16,Books,Fiction,South,Wholesale,3916.36,27,89894.25,10569.11,3.4
+2023-10-17,Sports,Fitness,West,Wholesale,3076.89,37,95026.17,5539.95,3.2
+2023-10-18,Sports,Cycling,East,Wholesale,2482.72,41,120096.6,7382.05,1.2
+2023-10-19,Books,Non-Fiction,Central,Wholesale,3090.56,5,15224.39,1374.01,2.8
+2023-10-20,Sports,Team Sports,North,Retail,766.8,7,5647.22,1248.85,4.6
+2023-10-21,Electronics,Tablets,South,Online,1085.7,5,4393.31,1284.85,3.8
+2023-10-22,Clothing,Footwear,South,Retail,1356.8,45,55651.57,17588.22,1.2
+2023-10-23,Clothing,Footwear,South,Retail,2992.92,32,95980.22,23086.5,4.5
+2023-10-24,Books,Non-Fiction,South,Retail,2215.09,27,69046.92,11803.09,4.3
+2023-10-25,Electronics,Cameras,South,Wholesale,1229.93,39,43581.9,4199.31,3.2
+2023-10-26,Clothing,Women,North,Premium,4415.22,29,142135.73,24223.55,1.1
+2023-10-27,Sports,Cycling,West,Online,1875.87,12,23971.03,3589.05,3.2
+2023-10-28,Books,Science,East,Premium,2235.7,25,47291.11,14707.9,1.2
+2023-10-29,Sports,Fitness,Central,Wholesale,2054.41,35,65961.46,12929.49,2.3
+2023-10-30,Food & Beverage,Frozen,West,Premium,917.9,2,1643.31,193.68,3.5
+2023-10-31,Food & Beverage,Snacks,North,Retail,3660.82,30,107299.85,14661.49,4.7
+2023-11-01,Electronics,Accessories,North,Online,2247.81,25,59237.31,5387.1,2.4
+2023-11-02,Food & Beverage,Snacks,East,Premium,91.12,4,354.77,115.5,4.4
+2023-11-03,Sports,Outdoor,East,Online,4820.43,13,56262.08,3662.87,4.7
+2023-11-04,Sports,Water Sports,South,Premium,4080.66,22,96808.49,5213.51,1.1
+2023-11-05,Electronics,Cameras,West,Wholesale,,17,63629.18,6674.49,2.0
+2023-11-06,Sports,Team Sports,East,Retail,4346.77,15,65705.27,19268.87,3.8
+2023-11-07,Books,Fiction,West,Premium,4534.97,32,148277.97,30699.48,4.0
+2023-11-08,Sports,Outdoor,North,Retail,1694.07,20,30112.44,7159.32,2.6
+2023-11-09,Electronics,Cameras,Central,Premium,3058.68,25,81985.81,12897.97,3.6
+2023-11-10,Sports,Water Sports,South,Online,3047.95,40,116431.72,8220.47,3.4
+2023-11-11,Food & Beverage,Snacks,East,Premium,1343.83,5,6352.2,1949.16,4.0
+2023-11-12,Books,Non-Fiction,East,Wholesale,,18,17297.38,1860.65,3.9
+2023-11-13,Electronics,Laptops,Central,Premium,578.4,4,2403.22,144.0,
+2023-11-14,Food & Beverage,Snacks,South,Retail,3299.98,46,158032.83,35053.46,1.6
+2023-11-15,Food & Beverage,Dairy,South,Wholesale,3906.79,10,36572.25,2742.43,1.5
+2023-11-16,Clothing,Footwear,South,Retail,3807.16,41,178561.67,14057.9,4.7
+2023-11-17,Books,Fiction,South,Premium,1588.21,10,18076.74,5244.3,
+2023-11-18,Home & Garden,Tools,North,Online,1034.25,16,13960.25,2756.91,4.2
+2023-11-19,Sports,Team Sports,North,Premium,2273.53,30,73527.01,9003.57,1.5
+2023-11-20,Home & Garden,Furniture,South,Premium,2738.6,41,107514.4,16620.43,3.3
+2023-11-21,Books,Science,East,Wholesale,4596.24,9,49634.67,13340.42,1.7
+2023-11-22,Food & Beverage,Snacks,South,Retail,4375.37,11,42835.33,2994.46,2.5
+2023-11-23,Books,Non-Fiction,South,Premium,4581.13,44,183873.85,15619.01,2.1
+2023-11-24,Food & Beverage,Dairy,West,Wholesale,4252.81,16,66469.21,15612.2,4.3
+2023-11-25,Food & Beverage,Frozen,South,Retail,4823.26,11,48147.45,11174.61,1.6
+2023-11-26,Electronics,Phones,Central,Premium,2332.84,37,92943.85,31762.51,3.6
+2023-11-27,Clothing,Accessories,West,Premium,246.89,5,1225.02,198.9,4.9
+2023-11-28,Books,Science,North,Wholesale,426.97,43,16309.88,1133.92,3.7
+2023-11-29,Sports,Cycling,South,Premium,1957.48,43,84386.25,17827.54,1.3
+2023-11-30,Electronics,Accessories,,Retail,1295.86,42,62890.2,15188.24,4.6
+2023-12-01,Electronics,Laptops,South,Retail,,15,14375.25,1320.81,3.6
+2023-12-02,Sports,Team Sports,South,Wholesale,,6,28585.54,6170.43,2.8
+2023-12-03,Sports,Team Sports,North,Online,985.14,21,18937.68,2070.46,3.6
+2023-12-04,Clothing,Footwear,North,Retail,4797.3,17,71111.47,21576.57,4.5
+2023-12-05,Clothing,Women,East,Retail,3806.59,47,205988.28,61909.46,2.9
+2023-12-06,Electronics,Laptops,West,Online,3208.32,31,107819.03,19287.61,3.1
+2023-12-07,Sports,Outdoor,South,Premium,3383.33,47,163606.57,55629.99,2.8
+2023-12-08,Electronics,Laptops,Central,Online,1664.06,37,70914.97,24389.94,1.3
+2023-12-09,Sports,Fitness,,Premium,3235.67,36,98857.29,8776.09,4.1
+2023-12-10,Home & Garden,Furniture,Central,Premium,941.59,6,6061.93,971.81,1.5
+2023-12-11,Home & Garden,Outdoor,South,Online,4689.15,4,16631.19,3826.78,2.6
+2023-12-12,Books,Fiction,East,Online,1515.95,3,3857.63,291.06,2.5
+2023-12-13,Sports,Cycling,West,Premium,1283.38,30,37971.75,6257.62,2.1
+2023-12-14,Books,Fiction,North,Wholesale,3558.7,10,33984.06,4361.91,2.6
+2023-12-15,Books,History,Central,Retail,3285.68,49,189409.6,63568.72,3.5
+2023-12-16,Food & Beverage,Beverages,South,Premium,2261.98,7,14719.03,2553.39,
+2023-12-17,Books,Science,East,Wholesale,3165.91,47,167540.47,46710.49,1.7
+2023-12-18,Sports,Outdoor,West,Premium,805.87,33,29240.6,4854.28,4.5
+2023-12-19,Home & Garden,Kitchen,West,Wholesale,3369.91,6,21577.59,1932.14,4.9
+2023-12-20,Clothing,Kids,North,Premium,1360.35,3,4767.32,1472.84,2.8
+2023-12-21,Sports,Team Sports,,Retail,1371.45,20,26418.79,1324.24,
+2023-12-22,Electronics,Laptops,West,Online,819.28,17,13313.11,889.08,1.2
+2023-12-23,Food & Beverage,Organic,Central,Wholesale,1668.56,16,23076.29,3676.41,1.1
+2023-12-24,Food & Beverage,Dairy,East,Wholesale,1662.94,26,39358.34,10078.47,2.6
+2023-12-25,Electronics,Tablets,West,Wholesale,2276.35,7,18355.06,2799.35,4.7
+2023-12-26,Books,Non-Fiction,East,Premium,960.19,7,6652.46,464.97,3.9
+2023-12-27,Electronics,Phones,Central,Wholesale,973.11,35,31897.52,4636.37,2.4
+2023-12-28,Books,Non-Fiction,Central,Premium,2713.28,49,117853.48,14554.23,4.9
+2023-12-29,Electronics,Phones,Central,Wholesale,653.1,14,9088.39,469.2,2.7
+2023-12-30,Home & Garden,Furniture,East,Retail,3447.6,46,172333.95,36266.06,2.1
+2023-12-31,Sports,Cycling,West,Premium,4720.3,17,73398.33,6238.4,2.7
+2024-01-01,Books,Fiction,South,Retail,2139.71,17,40124.85,5466.97,1.8
+2024-01-02,Home & Garden,Kitchen,East,Wholesale,4506.52,5,23702.38,5744.44,4.5
+2024-01-03,Food & Beverage,Dairy,West,Premium,500.6,21,11721.81,3135.99,2.4
+2024-01-04,Books,Art,North,Premium,224.36,25,5050.14,651.65,3.6
+2024-01-05,Clothing,Men,West,Premium,3609.63,33,125360.9,18648.45,2.6
+2024-01-06,Books,Fiction,North,Wholesale,3807.5,8,26241.11,3255.81,4.6
+2024-01-07,Books,Non-Fiction,East,Premium,4216.86,10,39871.2,13439.25,
+2024-01-08,Home & Garden,Kitchen,East,Wholesale,293.52,22,7036.96,754.05,3.0
+2024-01-09,Books,Art,East,Online,3886.77,4,16365.9,1717.67,1.5
+2024-01-10,Food & Beverage,Beverages,East,Online,1888.93,8,13224.69,2426.87,4.6
+2024-01-11,Books,Fiction,East,Retail,1523.65,31,54003.41,5767.13,3.2
+2024-01-12,Books,Non-Fiction,East,Wholesale,,47,33715.47,3270.82,2.1
+2024-01-13,Sports,Cycling,East,Wholesale,4980.12,29,149924.03,11808.6,4.5
+2024-01-14,Clothing,Men,East,Wholesale,327.68,8,3128.76,757.32,1.2
+2024-01-15,Books,Non-Fiction,West,Wholesale,4136.77,49,205256.16,47952.9,2.3
+2024-01-16,Home & Garden,Furniture,East,Online,3201.08,26,93237.82,22847.82,3.1
+2024-01-17,Sports,Fitness,West,Retail,3678.05,36,137450.96,38759.8,2.4
+2024-01-18,Clothing,Accessories,Central,Retail,3561.47,10,39647.54,5864.16,2.9
+2024-01-19,Clothing,Men,Central,Premium,4293.59,29,132263.58,43055.38,2.1
+2024-01-20,Electronics,Laptops,North,Wholesale,927.12,4,3992.0,1077.69,1.5
+2024-01-21,Food & Beverage,Dairy,West,Online,14.11,31,389.79,113.59,1.1
+2024-01-22,Electronics,Accessories,South,Online,2996.66,10,32865.22,8751.64,1.6
+2024-01-23,Electronics,Phones,North,Online,1775.75,45,71531.43,11268.82,4.8
+2024-01-24,Food & Beverage,Organic,West,Wholesale,627.7,3,2245.14,302.89,
+2024-01-25,Sports,Cycling,North,Wholesale,938.83,32,26771.37,4731.98,3.0
+2024-01-26,Home & Garden,Kitchen,Central,Premium,1665.43,7,10430.11,825.12,2.5
+2024-01-27,Books,Science,West,Premium,360.46,34,14013.95,2597.96,3.8
+2024-01-28,Home & Garden,Kitchen,Central,Wholesale,294.0,25,6594.38,415.07,1.6
+2024-01-29,Electronics,Accessories,West,Online,4580.97,48,207652.32,10628.43,2.1
+2024-01-30,Books,Fiction,Central,Premium,1567.39,32,54462.72,17942.73,3.6
+2024-01-31,Clothing,Accessories,North,Retail,4911.33,19,80577.68,20692.43,2.9
+2024-02-01,Sports,Cycling,Central,Premium,4822.19,5,20822.91,4550.93,4.1
+2024-02-02,Food & Beverage,Snacks,North,Wholesale,721.43,30,21524.8,3278.89,4.6
+2024-02-03,Food & Beverage,Dairy,South,Premium,3577.47,22,70635.47,15621.84,4.3
+2024-02-04,Home & Garden,Outdoor,North,Online,3008.02,3,8069.88,2561.97,1.7
+2024-02-05,Books,History,East,Premium,3456.33,29,80557.28,19794.05,1.4
+2024-02-06,Sports,Outdoor,West,Retail,489.99,11,5110.59,1179.24,1.7
+2024-02-07,Home & Garden,Kitchen,South,Retail,950.91,12,10581.35,1989.94,4.1
+2024-02-08,Electronics,Cameras,Central,Premium,392.43,1,318.83,49.01,4.7
+2024-02-09,Home & Garden,Furniture,West,Online,3024.63,19,60254.78,15639.98,4.7
+2024-02-10,Sports,Cycling,West,Online,4933.09,11,57013.12,19629.29,2.2
+2024-02-11,Food & Beverage,Dairy,Central,Retail,3363.2,4,11143.23,1977.11,4.4
+2024-02-12,Electronics,Accessories,East,Retail,3556.7,22,72520.99,12158.98,3.1
+2024-02-13,Books,Non-Fiction,South,Premium,4923.08,11,62229.43,11103.85,4.3
+2024-02-14,Food & Beverage,Organic,Central,Wholesale,3393.28,7,24533.64,4358.72,3.2
+2024-02-15,Food & Beverage,Snacks,East,Online,210.51,23,4671.25,1621.8,1.6
+2024-02-16,Home & Garden,Outdoor,West,Wholesale,,4,17103.31,4481.64,1.3
+2024-02-17,Electronics,Laptops,South,Wholesale,1829.74,49,79195.33,12493.49,4.8
+2024-02-18,Clothing,Men,South,Retail,31.77,24,857.6,138.46,2.7
+2024-02-19,Food & Beverage,Frozen,North,Premium,2541.1,49,145133.64,26013.62,2.4
+2024-02-20,Food & Beverage,Frozen,South,Premium,4685.7,44,240037.57,14645.57,2.4
+2024-02-21,Sports,Water Sports,North,Retail,1294.08,49,56407.8,11752.28,2.5
+2024-02-22,Electronics,Phones,West,Wholesale,2462.65,27,61457.88,18032.62,4.8
+2024-02-23,Electronics,Accessories,North,Online,,21,15919.6,3950.77,1.3
+2024-02-24,Home & Garden,Tools,West,Wholesale,297.89,36,9897.01,1083.98,1.5
+2024-02-25,Sports,Water Sports,Central,Online,411.92,4,1537.49,412.68,4.2
+2024-02-26,Electronics,Cameras,West,Wholesale,3637.78,42,160921.48,42778.98,3.2
+2024-02-27,Books,Non-Fiction,East,Retail,4321.73,16,60563.59,7798.27,1.5
+2024-02-28,Sports,Outdoor,North,Wholesale,725.06,1,846.7,200.55,1.1
+2024-02-29,Electronics,Cameras,Central,Online,1448.71,12,14624.55,3411.68,1.9
+2024-03-01,Electronics,Tablets,North,Retail,983.2,12,9471.18,2859.69,2.0
+2024-03-02,Home & Garden,Kitchen,West,Premium,144.01,1,164.46,14.94,1.1
+2024-03-03,Books,Non-Fiction,West,Retail,2771.62,33,98918.46,10727.86,1.9
+2024-03-04,Books,History,North,Retail,3502.61,5,16499.81,3230.51,4.0
+2024-03-05,Home & Garden,Tools,West,Online,3242.91,42,141405.13,8942.96,4.4
+2024-03-06,Clothing,Men,North,Online,1946.39,23,39816.53,6955.08,4.6
+2024-03-07,Food & Beverage,Organic,South,Wholesale,2779.5,36,86789.36,24862.18,
+2024-03-08,Home & Garden,Outdoor,Central,Wholesale,479.56,17,8058.44,762.44,2.3
+2024-03-09,Clothing,Women,Central,Retail,779.98,7,5139.23,966.1,5.0
+2024-03-10,Home & Garden,Decor,South,Online,4659.66,9,43869.9,15219.82,4.1
+2024-03-11,Electronics,Cameras,Central,Wholesale,3809.92,32,108172.43,21826.6,3.1
+2024-03-12,Clothing,Men,Central,Retail,4614.47,36,176947.2,35300.46,2.0
+2024-03-13,Sports,Outdoor,West,Wholesale,4584.23,14,71030.01,15458.83,2.3
+2024-03-14,Food & Beverage,Organic,North,Premium,3250.47,18,50706.62,5364.83,3.1
+2024-03-15,Books,History,South,Wholesale,4641.91,47,178363.24,16792.75,3.2
+2024-03-16,Books,Fiction,West,Premium,2089.35,42,85632.15,21682.61,1.1
+2024-03-17,Sports,Team Sports,Central,Wholesale,28.05,21,653.62,110.29,4.8
+2024-03-18,Electronics,Phones,Central,Retail,322.23,12,4099.97,561.58,3.3
+2024-03-19,Home & Garden,Tools,East,Wholesale,556.34,15,9018.99,535.89,3.4
+2024-03-20,Food & Beverage,Frozen,South,Wholesale,485.81,27,12607.09,3830.22,1.8
+2024-03-21,Electronics,Tablets,Central,Retail,1764.99,28,44180.15,2637.5,4.1
+2024-03-22,Food & Beverage,Beverages,South,Online,3509.34,10,35539.49,9773.18,3.9
+2024-03-23,Books,Fiction,South,Wholesale,3955.34,4,13950.43,2296.19,1.4
+2024-03-24,Clothing,Accessories,Central,Online,2955.16,25,80564.42,18498.1,3.4
+2024-03-25,Books,History,East,Wholesale,740.72,40,26037.39,3236.54,3.6
+2024-03-26,Food & Beverage,Beverages,South,Wholesale,3742.03,8,27436.72,2650.93,4.3
+2024-03-27,Electronics,Tablets,North,Wholesale,1780.46,21,37487.54,7873.0,
+2024-03-28,Electronics,Accessories,East,Retail,74.84,8,595.54,154.06,
+2024-03-29,Sports,Water Sports,Central,Online,1410.14,12,17604.3,1912.67,2.8
+2024-03-30,Food & Beverage,Organic,East,Retail,1659.7,30,48545.12,8782.19,1.4
+2024-03-31,Electronics,Laptops,West,Online,1378.49,15,24146.79,4428.44,1.4
+2024-04-01,Sports,Water Sports,South,Premium,4061.23,13,59974.85,6884.74,1.8
+2024-04-02,Electronics,Accessories,West,Premium,3802.03,49,214550.92,47097.11,2.1
+2024-04-03,Sports,Team Sports,West,Wholesale,3480.8,9,32950.16,3090.09,3.0
+2024-04-04,Sports,Fitness,West,Wholesale,703.64,10,7416.39,1504.97,4.0
+2024-04-05,Electronics,Tablets,West,Premium,4041.09,46,194009.72,16302.53,1.7
+2024-04-06,Books,History,,Wholesale,3389.11,27,89122.57,17437.96,5.0
+2024-04-07,Food & Beverage,Dairy,South,Wholesale,982.24,3,2737.04,392.71,1.6
+2024-04-08,Food & Beverage,Organic,West,Premium,3243.99,21,70630.82,13114.3,3.4
+2024-04-09,Electronics,Laptops,Central,Premium,2422.72,28,54961.72,9899.97,4.7
+2024-04-10,Clothing,Kids,Central,Premium,2202.36,13,22989.94,7411.5,4.3
+2024-04-11,Clothing,Men,South,Retail,569.49,27,17539.0,3454.84,3.6
+2024-04-12,Home & Garden,Furniture,West,Premium,,32,68009.12,20100.07,3.9
+2024-04-13,Electronics,Accessories,North,Retail,508.66,13,6678.16,785.99,1.5
+2024-04-14,Food & Beverage,Dairy,East,Online,829.62,40,34711.14,5401.92,1.0
+2024-04-15,Books,Art,East,Premium,671.41,23,13578.04,984.77,
+2024-04-16,Books,Science,South,Online,4771.0,48,265258.21,46744.95,1.4
+2024-04-17,Clothing,Men,Central,Premium,1431.47,5,6270.11,1571.35,2.4
+2024-04-18,Electronics,Cameras,Central,Wholesale,1782.47,16,32905.99,9919.51,1.9
+2024-04-19,Food & Beverage,Organic,North,Wholesale,,36,64342.84,14140.91,4.7
+2024-04-20,Clothing,Women,South,Wholesale,4492.27,44,177161.99,42877.06,4.5
+2024-04-21,Sports,Cycling,South,Wholesale,2819.2,11,26678.86,2752.73,4.3
+2024-04-22,Food & Beverage,Frozen,Central,Online,4596.61,49,208677.64,12763.1,3.9
+2024-04-23,Electronics,Accessories,East,Wholesale,1506.63,10,14451.3,4154.84,1.6
+2024-04-24,Electronics,Laptops,West,Online,583.03,21,10998.62,1101.09,1.2
+2024-04-25,Electronics,Cameras,Central,Wholesale,2785.53,16,53462.42,4135.36,3.6
+2024-04-26,Electronics,Tablets,West,Wholesale,1734.23,21,32480.53,10759.78,3.6
+2024-04-27,Electronics,Tablets,North,Retail,4011.52,45,204392.67,69300.64,2.5
+2024-04-28,Books,History,North,Online,4398.32,36,136749.47,32119.33,2.9
+2024-04-29,Sports,Water Sports,South,Premium,2368.14,40,112922.18,18473.07,3.0
+2024-04-30,Food & Beverage,Snacks,South,Premium,4857.08,13,56209.64,16861.31,2.0
+2024-05-01,Books,Non-Fiction,West,Wholesale,2769.53,47,126090.46,14048.49,2.3
+2024-05-02,Food & Beverage,Beverages,North,Wholesale,1361.89,22,30663.45,5483.17,2.7
+2024-05-03,Clothing,Accessories,South,Online,2449.99,32,66491.89,10446.22,3.4
+2024-05-04,Clothing,Footwear,South,Online,196.18,35,7736.45,2505.14,4.8
+2024-05-05,Food & Beverage,Beverages,North,Retail,4021.97,33,120763.06,39360.69,3.2
+2024-05-06,Clothing,Footwear,North,Online,516.16,30,15789.97,3872.74,3.9
+2024-05-07,Electronics,Accessories,North,Retail,1550.65,24,37954.46,3158.65,4.2
+2024-05-08,Books,Non-Fiction,East,Retail,2830.93,32,94309.04,18357.99,1.5
+2024-05-09,Books,Science,East,Online,224.45,45,8304.37,1026.41,3.6
+2024-05-10,Food & Beverage,Dairy,East,Retail,405.79,20,7040.03,2220.95,2.9
+2024-05-11,Food & Beverage,Organic,East,Wholesale,3483.62,26,78299.23,7166.01,3.3
+2024-05-12,Electronics,Phones,West,Online,368.17,9,3051.17,202.27,1.2
+2024-05-13,Books,History,Central,Online,2390.64,18,36919.57,9648.14,4.6
+2024-05-14,Food & Beverage,Organic,East,Wholesale,1700.09,38,75506.44,14043.13,4.8
+2024-05-15,Books,Science,West,Retail,1148.12,32,36930.22,11134.81,1.0
+2024-05-16,Books,History,West,Premium,952.01,11,10989.75,795.54,
+2024-05-17,Food & Beverage,Dairy,West,Premium,3819.42,27,97245.76,28232.67,1.7
+2024-05-18,Home & Garden,Decor,North,Premium,4758.2,40,173293.35,10605.63,4.1
+2024-05-19,Electronics,Tablets,Central,Online,709.5,7,4972.81,290.52,3.4
+2024-05-20,Home & Garden,Furniture,North,Wholesale,4798.81,4,17616.03,3318.77,1.7
+2024-05-21,Clothing,Footwear,East,Premium,2977.86,20,55832.4,6498.19,4.3
+2024-05-22,Electronics,Tablets,West,Wholesale,3211.89,33,103989.15,23721.55,2.4
+2024-05-23,Electronics,Laptops,East,Retail,3552.53,16,56970.84,3289.79,2.8
+2024-05-24,Books,History,South,Premium,3523.55,41,172452.23,10453.51,2.5
+2024-05-25,Sports,Team Sports,Central,Wholesale,4100.86,42,153174.58,41072.93,3.1
+2024-05-26,Sports,Team Sports,North,Premium,2422.51,27,65093.19,7358.76,2.9
+2024-05-27,Books,Science,South,Wholesale,2671.46,19,43641.74,10776.24,2.1
+2024-05-28,Sports,Outdoor,Central,Premium,1625.9,3,4585.04,1260.78,2.7
+2024-05-29,Sports,Fitness,West,Online,535.24,41,23852.38,1617.18,4.6
+2024-05-30,Electronics,Cameras,North,Wholesale,3326.55,44,127308.84,35764.39,3.0
+2024-05-31,Food & Beverage,Snacks,West,Wholesale,177.71,22,4036.84,526.91,4.7
+2024-06-01,Home & Garden,Decor,Central,Premium,1385.42,26,34820.72,5810.32,3.2
+2024-06-02,Electronics,Accessories,North,Retail,480.21,37,14580.8,1108.02,4.1
+2024-06-03,Books,Fiction,East,Wholesale,961.73,35,39491.57,11910.22,2.2
+2024-06-04,Books,History,East,Wholesale,3197.27,7,21607.43,4715.14,4.2
+2024-06-05,Electronics,Accessories,North,Online,3146.1,33,115612.35,23284.28,2.1
+2024-06-06,Clothing,Footwear,South,Wholesale,2111.06,46,93858.08,31964.91,1.1
+2024-06-07,Electronics,Laptops,North,Online,459.96,37,19995.81,3006.4,1.6
+2024-06-08,Clothing,Men,North,Wholesale,2172.54,24,47770.93,15154.55,1.1
+2024-06-09,Electronics,Cameras,East,Retail,1770.2,26,44409.36,11808.73,4.8
+2024-06-10,Books,Non-Fiction,East,Retail,3605.09,13,51718.96,16992.7,5.0
+2024-06-11,Sports,Cycling,South,Online,,33,89695.17,28912.4,
+2024-06-12,Food & Beverage,Snacks,South,Wholesale,2462.91,12,27951.35,9707.75,1.4
+2024-06-13,Books,Fiction,North,Wholesale,2440.04,17,49690.92,4447.49,4.6
+2024-06-14,Sports,Water Sports,West,Online,4831.82,13,64211.0,18544.45,4.0
+2024-06-15,Sports,Cycling,South,Wholesale,3783.91,17,69199.34,20161.11,2.3
+2024-06-16,Electronics,Cameras,Central,Wholesale,2489.93,18,47390.66,11530.72,3.0
+2024-06-17,Electronics,Accessories,East,Retail,2401.32,5,13581.5,1815.28,3.6
+2024-06-18,Sports,Outdoor,Central,Wholesale,142.13,36,5857.22,1988.79,1.1
+2024-06-19,Electronics,Cameras,West,Online,4713.12,22,106312.22,11835.38,3.0
+2024-06-20,Electronics,Accessories,South,Online,1602.68,47,69135.86,13818.37,3.9
+2024-06-21,Clothing,Men,West,Premium,1287.14,9,9373.06,1935.03,1.8
+2024-06-22,Food & Beverage,Snacks,South,Premium,4997.05,33,172448.81,16994.62,2.8
+2024-06-23,Home & Garden,Outdoor,North,Retail,3596.26,9,36580.03,9758.04,3.1
+2024-06-24,Books,Non-Fiction,South,Wholesale,246.35,27,6519.86,499.81,3.9
+2024-06-25,Home & Garden,Tools,South,Wholesale,318.81,25,6901.3,1780.05,4.9
+2024-06-26,Clothing,Men,North,Online,137.25,22,2763.55,841.73,4.4
+2024-06-27,Home & Garden,Decor,North,Wholesale,3002.1,33,99465.14,15399.09,3.5
+2024-06-28,Electronics,Laptops,Central,Premium,367.11,41,17078.53,4488.69,3.3
+2024-06-29,Books,Non-Fiction,East,Wholesale,4667.61,16,64876.14,6295.07,3.4
+2024-06-30,Clothing,Footwear,East,Online,4685.16,42,205604.11,62459.38,3.2
+2024-07-01,Home & Garden,Outdoor,Central,Retail,2734.81,10,30119.76,10108.48,1.2
+2024-07-02,Food & Beverage,Dairy,South,Premium,3087.03,15,54382.0,5210.24,3.8
+2024-07-03,Sports,Water Sports,East,Premium,,16,19867.21,5116.96,3.9
+2024-07-04,Home & Garden,Decor,Central,Premium,,47,18112.42,3654.17,3.0
+2024-07-05,Sports,Cycling,West,Wholesale,3689.93,6,23038.16,4825.34,4.5
+2024-07-06,Books,Science,South,Retail,517.91,20,11463.22,3002.76,3.7
+2024-07-07,Clothing,Kids,South,Online,436.93,21,7537.79,1482.1,2.5
+2024-07-08,Sports,Water Sports,North,Wholesale,1563.0,40,62673.75,14421.1,1.1
+2024-07-09,Food & Beverage,Frozen,North,Premium,72.2,24,1817.8,216.81,1.2
+2024-07-10,Sports,Cycling,North,Online,2175.84,48,96370.59,15761.6,2.4
+2024-07-11,Home & Garden,Kitchen,West,Online,3541.33,37,127446.88,39454.0,2.8
+2024-07-12,Electronics,Accessories,West,Premium,4008.73,35,143352.88,11894.1,1.7
+2024-07-13,Clothing,Footwear,East,Premium,3025.49,37,114296.08,26204.96,1.8
+2024-07-14,Food & Beverage,Beverages,West,Wholesale,4235.9,8,27677.19,2914.02,1.9
+2024-07-15,Sports,Outdoor,North,Retail,2038.45,23,45749.41,13906.08,4.1
+2024-07-16,Clothing,Footwear,South,Retail,4245.37,29,109022.34,24389.74,4.1
+2024-07-17,Home & Garden,Furniture,South,Wholesale,2537.3,11,32562.33,5565.38,2.5
+2024-07-18,Sports,Outdoor,Central,Online,1122.95,6,8022.12,1002.34,1.7
+2024-07-19,Sports,Water Sports,West,Retail,4721.29,7,30400.44,5504.1,1.4
+2024-07-20,Books,Art,Central,Retail,1382.1,39,46898.65,15818.15,1.3
+2024-07-21,Clothing,Kids,South,Online,140.75,33,4123.62,836.12,2.6
+2024-07-22,Sports,Outdoor,Central,Premium,1220.94,14,16941.05,3233.15,1.2
+2024-07-23,Home & Garden,Kitchen,North,Retail,1839.77,37,78268.75,21436.41,2.3
+2024-07-24,Food & Beverage,Frozen,South,Online,1763.23,35,61713.94,10103.44,4.8
+2024-07-25,Electronics,Tablets,East,Retail,2628.09,41,88588.79,15788.93,3.0
+2024-07-26,Electronics,Phones,North,Online,4416.8,45,162175.8,24502.22,4.3
+2024-07-27,Home & Garden,Kitchen,Central,Premium,1468.77,44,57578.84,5485.88,1.5
+2024-07-28,Sports,Team Sports,Central,Premium,2608.65,9,26696.86,7051.78,2.1
+2024-07-29,Books,History,East,Online,,38,68029.54,21219.04,4.8
+2024-07-30,Home & Garden,Outdoor,South,Online,4110.65,20,84283.38,27112.09,2.5
+2024-07-31,Food & Beverage,Dairy,North,Premium,796.43,20,14775.18,4642.97,3.6
+2024-08-01,Home & Garden,Tools,,Online,526.52,32,19742.73,3662.97,4.9
+2024-08-02,Electronics,Laptops,East,Wholesale,2519.95,30,70493.43,9532.11,3.2
+2024-08-03,Electronics,Tablets,West,Premium,3362.72,21,80078.24,19329.06,2.2
+2024-08-04,Food & Beverage,Snacks,West,Online,3979.67,49,225884.91,75990.28,3.1
+2024-08-05,Electronics,Cameras,North,Premium,2952.23,9,26392.95,7076.35,1.2
+2024-08-06,Food & Beverage,Dairy,North,Online,3871.51,5,22410.54,4447.47,1.4
+2024-08-07,Clothing,Accessories,West,Premium,1969.62,2,3587.55,920.72,1.0
+2024-08-08,Electronics,Laptops,North,Retail,174.01,40,7401.5,2085.46,
+2024-08-09,Clothing,Women,Central,Retail,589.34,20,9844.16,3207.04,3.7
+2024-08-10,Sports,Cycling,North,Retail,203.23,22,4424.44,1234.26,2.2
+2024-08-11,Home & Garden,Kitchen,West,Online,1651.43,32,46870.63,8434.71,1.9
+2024-08-12,Books,History,Central,Online,2482.5,22,45063.13,5952.03,3.7
+2024-08-13,Sports,Team Sports,East,Retail,1788.02,29,41559.33,8310.39,4.7
+2024-08-14,Home & Garden,Kitchen,North,Retail,2807.39,3,7831.78,1162.65,2.2
+2024-08-15,Sports,Water Sports,Central,Premium,2408.24,8,19955.88,6641.9,2.3
+2024-08-16,Food & Beverage,Dairy,North,Premium,3392.93,46,153279.81,31022.26,4.4
+2024-08-17,Home & Garden,Decor,East,Online,3338.14,23,70689.38,13545.28,4.6
+2024-08-18,Electronics,Cameras,Central,Wholesale,1597.14,9,17198.51,2656.46,4.7
+2024-08-19,Home & Garden,Decor,West,Wholesale,1737.61,19,38818.89,9387.27,2.2
+2024-08-20,Food & Beverage,Organic,North,Retail,2929.89,17,42349.93,8724.74,1.5
+2024-08-21,Clothing,Accessories,Central,Retail,2986.2,14,40387.17,3582.93,2.8
+2024-08-22,Food & Beverage,Dairy,North,Premium,1580.35,15,25116.63,7805.3,
+2024-08-23,Sports,Cycling,West,Wholesale,1658.29,36,65274.05,10293.97,
+2024-08-24,Sports,Outdoor,,Online,3473.28,6,19725.78,3546.17,1.1
+2024-08-25,Clothing,Accessories,South,Online,3240.58,16,56957.09,6362.11,3.5
+2024-08-26,Food & Beverage,Dairy,East,Wholesale,683.9,23,13364.9,2887.08,4.6
+2024-08-27,Electronics,Cameras,North,Retail,2210.8,27,55675.85,14510.05,4.9
+2024-08-28,Clothing,Men,Central,Online,4464.6,44,213449.06,67097.63,3.6
+2024-08-29,Home & Garden,Tools,South,Retail,191.17,46,9235.91,604.79,4.8
+2024-08-30,Home & Garden,Outdoor,South,Wholesale,4277.27,15,72813.08,24902.04,1.3
+2024-08-31,Home & Garden,Tools,East,Premium,824.26,27,18221.14,4758.37,2.4
+2024-09-01,Electronics,Laptops,West,Online,2541.17,2,4420.4,598.03,1.0
+2024-09-02,Clothing,Footwear,East,Premium,2127.44,31,54039.81,6016.92,4.9
+2024-09-03,Electronics,Phones,East,Retail,60.55,8,424.74,58.97,4.6
+2024-09-04,Sports,Team Sports,East,Retail,4577.83,4,14680.43,4590.83,1.1
+2024-09-05,Home & Garden,Tools,Central,Wholesale,2280.08,33,75369.36,10357.04,1.1
+2024-09-06,Sports,Team Sports,South,Wholesale,4771.8,9,43432.6,8202.09,2.5
+2024-09-07,Sports,Water Sports,Central,Retail,1440.85,24,36764.38,9622.03,2.0
+2024-09-08,Books,Non-Fiction,,Premium,4332.72,5,20666.32,6439.56,
+2024-09-09,Sports,Water Sports,Central,Retail,4612.72,37,136755.5,33856.74,1.6
+2024-09-10,Sports,Water Sports,Central,Online,2788.59,38,113337.07,31273.41,4.2
+2024-09-11,Sports,Water Sports,West,Online,1021.36,29,24338.78,2482.51,3.2
+2024-09-12,Sports,Outdoor,South,Online,3429.38,41,161198.68,50491.03,2.5
+2024-09-13,Sports,Outdoor,West,Retail,2749.4,22,48937.55,6494.78,1.6
+2024-09-14,Clothing,Women,West,Wholesale,4723.2,10,47807.76,4231.63,5.0
+2024-09-15,Clothing,Kids,South,Online,2201.97,8,20398.47,6994.09,3.5
+2024-09-16,Books,Science,West,Wholesale,1349.88,11,15279.23,1688.23,2.8
+2024-09-17,Home & Garden,Decor,South,Online,700.05,10,7304.09,664.64,2.5
+2024-09-18,Sports,Team Sports,East,Retail,3496.18,16,60002.52,14268.98,4.6
+2024-09-19,Clothing,Women,West,Retail,4870.81,11,45486.54,6625.52,4.3
+2024-09-20,Home & Garden,Decor,North,Online,151.44,29,4699.06,422.94,4.2
+2024-09-21,Sports,Water Sports,South,Online,3704.82,8,34147.83,7865.49,3.5
+2024-09-22,Sports,Cycling,West,Retail,4635.38,31,170954.38,47473.27,4.6
+2024-09-23,Sports,Outdoor,,Premium,383.16,17,6365.34,1832.96,2.2
+2024-09-24,Home & Garden,Outdoor,Central,Retail,559.75,34,17847.78,1725.06,3.8
+2024-09-25,Food & Beverage,Organic,North,Premium,3462.87,26,99157.27,21523.09,2.6
+2024-09-26,Sports,Fitness,West,Online,3243.34,45,148453.31,43660.64,3.4
+2024-09-27,Books,Non-Fiction,Central,Premium,353.45,22,7021.03,690.35,5.0
+2024-09-28,Books,Fiction,Central,Premium,4173.77,15,54396.52,6108.98,4.9
+2024-09-29,Sports,Fitness,North,Wholesale,2621.89,29,66005.22,3348.01,3.1
+2024-09-30,Food & Beverage,Beverages,Central,Premium,4536.91,33,147273.26,30543.04,3.3
+2024-10-01,Electronics,Tablets,South,Retail,4391.17,22,83858.59,9090.65,4.6
+2024-10-02,Food & Beverage,Frozen,South,Wholesale,4064.41,28,91940.42,24573.17,4.9
+2024-10-03,Food & Beverage,Snacks,South,Retail,,24,50911.63,17241.94,4.1
+2024-10-04,Sports,Cycling,West,Wholesale,1266.04,15,22256.11,2506.63,1.3
+2024-10-05,Books,Non-Fiction,West,Premium,2534.82,16,33629.34,8230.08,2.3
+2024-10-06,Sports,Fitness,East,Wholesale,513.05,45,19145.62,2173.99,4.6
+2024-10-07,Clothing,Footwear,North,Retail,3297.64,34,109930.66,6090.38,4.1
+2024-10-08,Books,History,Central,Wholesale,678.55,5,3046.83,845.7,4.0
+2024-10-09,Clothing,Footwear,South,Premium,2560.75,48,145664.99,26249.04,3.7
+2024-10-10,Clothing,Men,North,Online,281.37,35,11466.9,3830.36,2.7
+2024-10-11,Sports,Fitness,East,Online,1504.57,3,4341.73,913.0,2.6
+2024-10-12,Food & Beverage,Beverages,East,Wholesale,1168.08,36,41188.53,4005.37,4.2
+2024-10-13,Home & Garden,Kitchen,West,Wholesale,3103.96,29,85518.19,15815.08,2.2
+2024-10-14,Home & Garden,Outdoor,Central,Online,3936.07,45,144381.31,16007.2,3.7
+2024-10-15,Electronics,Laptops,North,Online,295.94,24,6514.03,2041.55,3.9
+2024-10-16,Electronics,Phones,South,Premium,4252.92,26,93886.63,24154.3,4.4
+2024-10-17,Electronics,Cameras,East,Online,4305.23,16,57927.6,8826.52,2.3
+2024-10-18,Electronics,Phones,West,Premium,1717.92,16,28155.87,5866.17,4.0
+2024-10-19,Food & Beverage,Snacks,West,Premium,3298.43,31,85840.6,21532.6,1.4
+2024-10-20,Food & Beverage,Organic,South,Retail,2019.04,41,69632.8,19835.41,1.6
+2024-10-21,Books,Science,West,Wholesale,779.41,44,34026.73,2519.48,2.7
+2024-10-22,Electronics,Accessories,Central,Wholesale,2648.03,38,98302.0,5579.19,1.2
+2024-10-23,Electronics,Cameras,East,Retail,440.93,30,11310.57,953.89,4.8
+2024-10-24,Clothing,Accessories,Central,Retail,4393.58,25,88067.07,14839.2,4.6
+2024-10-25,Sports,Outdoor,West,Premium,4622.21,17,68927.44,13097.04,1.2
+2024-10-26,Home & Garden,Outdoor,South,Wholesale,4109.85,38,139675.56,12701.88,4.4
+2024-10-27,Home & Garden,Tools,South,Retail,2817.02,16,50485.48,8751.45,3.0
+2024-10-28,Clothing,Men,West,Wholesale,2792.42,14,45590.32,8319.63,3.8
+2024-10-29,Books,Art,South,Wholesale,4923.19,43,203732.65,16854.19,4.5
+2024-10-30,Clothing,Men,South,Retail,1247.03,29,34790.03,11306.69,3.3
+2024-10-31,Electronics,Tablets,South,Retail,388.98,18,7596.73,1745.3,1.5
+2024-11-01,Books,History,West,Premium,2814.09,43,127149.19,21178.05,1.0
+2024-11-02,Food & Beverage,Beverages,South,Premium,1650.64,48,69220.4,13987.52,3.0
+2024-11-03,Electronics,Laptops,West,Wholesale,1618.47,16,21831.88,3149.45,4.8
+2024-11-04,Home & Garden,Kitchen,Central,Online,45.36,26,1149.93,352.22,3.3
+2024-11-05,Books,Art,Central,Premium,2985.23,24,73503.38,16354.83,2.5
+2024-11-06,Books,Non-Fiction,Central,Premium,1327.53,35,39748.78,7888.89,
+2024-11-07,Food & Beverage,Frozen,North,Retail,947.41,47,40846.2,13204.17,4.7
+2024-11-08,Home & Garden,Kitchen,East,Premium,211.76,27,5273.71,1589.46,2.3
+2024-11-09,Home & Garden,Furniture,South,Retail,1828.16,40,66144.24,19435.86,3.8
+2024-11-10,Books,History,Central,Retail,4396.05,30,129811.55,15276.58,3.8
+2024-11-11,Electronics,Cameras,West,Wholesale,1689.99,44,78912.26,7570.6,2.0
+2024-11-12,Clothing,Kids,South,Online,3398.58,20,68226.9,17536.29,1.3
+2024-11-13,Sports,Fitness,East,Retail,3785.17,19,63329.94,12070.22,2.5
+2024-11-14,Books,Fiction,West,Wholesale,1647.22,21,29097.63,7423.21,2.3
+2024-11-15,Electronics,Tablets,East,Wholesale,4109.99,49,227318.04,63237.19,3.8
+2024-11-16,Sports,Team Sports,East,Wholesale,3462.48,30,103014.51,14277.2,
+2024-11-17,Home & Garden,Kitchen,North,Premium,2800.62,8,18480.86,2502.22,
+2024-11-18,Sports,Outdoor,East,Wholesale,14.95,3,40.51,7.99,3.1
+2024-11-19,Food & Beverage,Organic,South,Retail,185.1,26,5397.88,712.87,1.2
+2024-11-20,Electronics,Laptops,Central,Retail,4954.42,40,218131.33,54573.97,1.9
+2024-11-21,Food & Beverage,Frozen,Central,Retail,3913.6,24,108046.04,29606.68,4.0
+2024-11-22,Home & Garden,Tools,West,Retail,4688.45,28,136637.3,26181.3,
+2024-11-23,Books,History,North,Online,4512.49,40,174933.42,46731.7,4.1
+2024-11-24,Home & Garden,Furniture,Central,Wholesale,112.01,26,2826.8,574.21,1.6
+2024-11-25,Clothing,Accessories,South,Wholesale,3961.32,45,156440.45,41278.61,3.2
+2024-11-26,Books,Fiction,East,Premium,2261.22,32,76723.71,9014.31,2.7
+2024-11-27,Books,Art,Central,Online,3949.9,36,147034.99,39942.48,5.0
+2024-11-28,Electronics,Phones,Central,Retail,43.51,39,1462.63,386.92,3.6
+2024-11-29,Books,Science,North,Wholesale,1448.11,31,51816.59,6735.21,4.7
+2024-11-30,Books,Fiction,South,Wholesale,3759.11,3,10684.0,2316.2,1.6
+2024-12-01,Home & Garden,Furniture,West,Premium,3967.17,21,68305.96,20942.16,2.8
+2024-12-02,Food & Beverage,Frozen,East,Wholesale,3102.38,7,20221.52,2524.79,4.1
+2024-12-03,Sports,Water Sports,South,Retail,1513.27,26,45165.83,12230.63,2.5
+2024-12-04,Home & Garden,Furniture,East,Online,1558.71,8,14549.41,4891.37,3.5
+2024-12-05,Electronics,Cameras,Central,Wholesale,4834.15,25,120389.6,37305.44,3.0
+2024-12-06,Books,Non-Fiction,South,Retail,2201.67,17,44260.42,7544.46,5.0
+2024-12-07,Clothing,Women,West,Online,2241.16,1,2577.55,598.41,1.7
+2024-12-08,Books,Non-Fiction,West,Retail,,7,21881.95,7604.66,4.7
+2024-12-09,Sports,Team Sports,Central,Premium,2053.42,25,58721.86,12950.0,2.6
+2024-12-10,Home & Garden,Furniture,South,Premium,,4,10548.2,891.41,2.9
+2024-12-11,Electronics,Tablets,South,Wholesale,2167.35,42,100367.11,6386.28,3.1
+2024-12-12,Books,Non-Fiction,East,Online,4135.31,38,162003.06,46510.16,2.1
+2024-12-13,Electronics,Phones,East,Online,4546.16,35,173097.66,30653.6,4.9
+2024-12-14,Home & Garden,Decor,East,Online,4661.23,9,36544.18,4533.08,4.6
+2024-12-15,Food & Beverage,Frozen,West,Retail,2825.84,39,120408.32,18579.2,4.9
+2024-12-16,Food & Beverage,Frozen,West,Wholesale,2216.32,32,83903.63,23259.08,5.0
+2024-12-17,Food & Beverage,Beverages,South,Retail,3529.15,20,65011.55,12324.51,3.7
+2024-12-18,Food & Beverage,Beverages,West,Online,4193.23,1,5008.66,1555.44,2.8
+2024-12-19,Sports,Water Sports,South,Retail,,26,69735.2,18861.81,4.4
+2024-12-20,Clothing,Footwear,East,Online,3502.91,39,120204.76,41134.58,1.1
+2024-12-21,Food & Beverage,Dairy,North,Online,3751.15,2,6338.8,2006.55,4.3
+2024-12-22,Books,Art,South,Premium,3385.2,3,11313.18,1429.58,3.0
+2024-12-23,Food & Beverage,Dairy,Central,Wholesale,3733.21,19,72486.52,17956.2,3.7
+2024-12-24,Sports,Cycling,East,Retail,1051.14,26,25221.23,1416.5,2.5
+2024-12-25,Electronics,Tablets,West,Online,2496.89,24,62524.93,21716.91,2.5
+2024-12-26,Sports,Outdoor,North,Retail,2945.46,21,57700.53,7403.08,1.1
+2024-12-27,Home & Garden,Decor,West,Retail,22.36,13,284.68,71.01,2.7
+2024-12-28,Food & Beverage,Beverages,South,Premium,4281.25,3,14706.94,4481.88,2.6
+2024-12-29,Home & Garden,Tools,West,Premium,3054.02,2,6518.91,639.76,1.9
+2024-12-30,Clothing,Footwear,Central,Online,654.39,5,3615.38,1100.39,2.0
+2024-12-31,Electronics,Cameras,East,Premium,4083.62,34,143480.08,7701.11,3.3
+2025-01-01,Food & Beverage,Snacks,North,Retail,3588.11,39,167442.06,30573.77,2.3
+2025-01-02,Books,Science,East,Retail,3793.91,22,74832.63,14338.78,4.3
+2025-01-03,Electronics,Laptops,North,Wholesale,1966.29,4,7117.31,1154.62,1.4
+2025-01-04,Home & Garden,Outdoor,East,Retail,4272.47,21,75099.32,16966.09,3.3
+2025-01-05,Home & Garden,Decor,North,Premium,2076.0,49,103922.03,33717.78,1.6
+2025-01-06,Home & Garden,Furniture,West,Retail,2856.84,13,38822.94,5749.55,3.1
+2025-01-07,Food & Beverage,Organic,South,Online,13.21,25,360.1,80.58,3.2
+2025-01-08,Electronics,Cameras,South,Premium,3227.92,27,81417.23,25503.03,3.6
+2025-01-09,Clothing,Accessories,North,Online,3593.7,17,49173.84,13862.04,2.7
+2025-01-10,Clothing,Men,Central,Retail,2839.88,22,65781.9,4092.95,3.0
+2025-01-11,Clothing,Women,Central,Wholesale,2487.83,24,71618.35,23837.25,1.7
+2025-01-12,Food & Beverage,Snacks,Central,Online,4051.58,24,89246.88,5711.27,2.9
+2025-01-13,Food & Beverage,Beverages,,Premium,3410.05,36,107241.49,24303.88,2.5
+2025-01-14,Electronics,Tablets,South,Wholesale,1397.59,29,36992.11,8234.67,3.7
+2025-01-15,Sports,Outdoor,Central,Wholesale,4795.78,3,13958.11,3990.86,2.7
+2025-01-16,Clothing,Men,East,Premium,3539.26,1,3186.63,301.24,4.1
+2025-01-17,Clothing,Kids,North,Premium,4939.82,21,97385.9,10109.74,2.7
+2025-01-18,Clothing,Men,North,Wholesale,4856.59,45,230628.39,63568.58,1.9
+2025-01-19,Clothing,Women,South,Retail,4595.36,2,8621.0,817.71,
+2025-01-20,Home & Garden,Furniture,Central,Online,3779.3,4,14488.68,2764.93,1.2
+2025-01-21,Food & Beverage,Snacks,North,Premium,3051.05,34,84649.63,22812.6,3.2
+2025-01-22,Sports,Team Sports,,Premium,869.13,23,23331.86,5725.0,4.3
+2025-01-23,Books,Art,West,Wholesale,2721.32,12,31439.55,3558.37,4.1
+2025-01-24,Home & Garden,Tools,Central,Retail,3829.23,11,39225.99,5538.24,2.8
+2025-01-25,Electronics,Phones,Central,Online,2609.08,33,71858.22,24481.55,1.8
+2025-01-26,Electronics,Phones,South,Premium,4342.51,26,118965.26,21961.13,4.5
+2025-01-27,Clothing,Women,Central,Premium,,32,20424.52,1293.63,1.2
+2025-01-28,Clothing,Footwear,North,Retail,1910.89,14,21842.35,2530.99,2.6
+2025-01-29,Food & Beverage,Frozen,South,Wholesale,2534.76,26,56552.61,8637.31,4.4
+2025-01-30,Food & Beverage,Dairy,South,Wholesale,2167.3,43,80012.18,27992.01,2.6
+2025-01-31,Food & Beverage,Beverages,North,Retail,551.85,16,9190.82,1294.14,
+2025-02-01,Sports,Fitness,North,Premium,776.11,20,18137.57,1050.51,2.1
+2025-02-02,Sports,Fitness,North,Retail,4189.71,9,36768.75,7496.28,3.4
+2025-02-03,Sports,Fitness,North,Online,2427.08,32,72814.15,5467.0,1.6
+2025-02-04,Home & Garden,Furniture,South,Premium,253.12,2,560.07,74.05,3.6
+2025-02-05,Books,Art,North,Online,92.29,13,1316.18,457.66,2.8
+2025-02-06,Books,Non-Fiction,North,Premium,2372.64,35,74630.41,19507.76,2.3
+2025-02-07,Books,Art,Central,Wholesale,830.25,1,717.61,46.79,2.0
+2025-02-08,Sports,Team Sports,North,Premium,3528.58,49,163066.54,30103.06,4.3
+2025-02-09,Electronics,Tablets,North,Wholesale,3978.66,20,88345.46,8966.29,2.6
+2025-02-10,Books,Science,North,Retail,1149.2,20,24777.33,2152.74,4.0
+2025-02-11,Home & Garden,Outdoor,North,Wholesale,,27,85364.82,19302.66,2.8
+2025-02-12,Books,Fiction,East,Wholesale,780.68,32,28273.64,5702.7,1.4
+2025-02-13,Sports,Fitness,Central,Online,1524.88,23,31945.62,8716.68,2.8
+2025-02-14,Food & Beverage,Organic,West,Wholesale,4445.09,44,183041.84,58150.9,
+2025-02-15,Home & Garden,Decor,East,Wholesale,2725.05,48,106857.16,13250.77,2.8
+2025-02-16,Food & Beverage,Organic,North,Wholesale,4430.58,10,50840.83,16619.75,4.3
+2025-02-17,Food & Beverage,Frozen,West,Wholesale,1133.99,35,40998.29,8420.95,4.6
+2025-02-18,Clothing,Kids,North,Online,1656.82,15,22845.45,2916.23,4.1
+2025-02-19,Home & Garden,Decor,West,Wholesale,2360.05,49,95724.96,29075.09,3.3
+2025-02-20,Sports,Outdoor,East,Premium,2405.6,13,34067.46,2066.5,
+2025-02-21,Books,History,Central,Wholesale,4988.26,15,82268.5,17922.42,3.6
+2025-02-22,Books,Non-Fiction,South,Premium,581.08,35,21689.68,5780.01,2.2
+2025-02-23,Food & Beverage,Organic,West,Wholesale,4261.31,39,146499.5,19629.95,4.2
+2025-02-24,Home & Garden,Kitchen,East,Retail,4319.77,7,35236.39,10889.72,4.4
+2025-02-25,Sports,Water Sports,East,Retail,2770.46,28,85428.16,10429.53,2.1
+2025-02-26,Home & Garden,Tools,Central,Premium,1726.75,17,31207.11,9423.37,4.6
+2025-02-27,Food & Beverage,Organic,West,Premium,2600.94,30,82739.35,6086.6,4.4
+2025-02-28,Clothing,Women,East,Retail,1469.41,28,47798.15,4683.18,2.7
+2025-03-01,Sports,Outdoor,East,Online,3997.55,49,229438.66,37695.71,4.6
+2025-03-02,Electronics,Tablets,West,Online,2496.41,46,119227.86,36509.56,1.5
+2025-03-03,Food & Beverage,Beverages,South,Retail,4629.95,33,147695.57,13791.16,1.1
+2025-03-04,Home & Garden,Tools,North,Wholesale,,34,100208.91,31328.46,2.4
+2025-03-05,Home & Garden,Decor,East,Online,2576.45,45,130737.88,15547.28,3.3
+2025-03-06,Sports,Water Sports,North,Premium,3558.24,9,33876.51,6292.65,2.4
+2025-03-07,Home & Garden,Tools,North,Premium,2524.63,36,75518.33,11767.29,4.8
+2025-03-08,Food & Beverage,Dairy,East,Retail,4523.49,38,147290.39,12584.18,2.0
+2025-03-09,Sports,Fitness,West,Retail,930.39,7,7555.25,2518.11,2.1
+2025-03-10,Sports,Water Sports,West,Wholesale,4867.01,44,247084.31,44834.31,3.5
+2025-03-11,Electronics,Phones,South,Retail,4062.83,35,167899.11,43166.76,1.0
+2025-03-12,Electronics,Laptops,East,Online,4305.06,18,75254.72,16750.22,3.9
+2025-03-13,Home & Garden,Furniture,North,Retail,2419.71,24,64671.55,12967.6,2.5
+2025-03-14,Food & Beverage,Snacks,West,Retail,4187.64,24,113698.45,26716.1,4.9
+2025-03-15,Food & Beverage,Snacks,South,Retail,1540.8,46,65651.67,20975.89,3.8
+2025-03-16,Sports,Fitness,West,Wholesale,3812.12,48,157023.07,40793.61,1.2
+2025-03-17,Sports,Cycling,Central,Premium,710.85,40,34086.98,7149.54,1.4
+2025-03-18,Home & Garden,Furniture,West,Retail,1542.19,32,40076.59,9760.89,1.4
+2025-03-19,Clothing,Women,South,Premium,2234.21,6,13927.19,3229.97,4.8
+2025-03-20,Electronics,Accessories,Central,Wholesale,1618.38,45,77202.91,13891.61,3.7
+2025-03-21,Home & Garden,Outdoor,West,Retail,1941.22,7,14576.64,3460.92,2.7
+2025-03-22,Clothing,Accessories,West,Wholesale,4102.32,9,33311.9,6098.44,1.8
+2025-03-23,Clothing,Men,Central,Online,1290.81,4,5620.87,1558.58,4.5
+2025-03-24,Clothing,Accessories,Central,Retail,3728.95,47,155379.05,52933.56,1.8
+2025-03-25,Electronics,Accessories,North,Retail,377.82,25,10688.67,3612.34,3.8
+2025-03-26,Sports,Fitness,Central,Premium,3831.04,12,40807.32,12087.97,4.1
+2025-03-27,Food & Beverage,Organic,West,Online,3962.2,4,17095.82,3941.06,2.2
+2025-03-28,Books,Art,South,Wholesale,2014.48,21,47099.9,12943.03,3.0
+2025-03-29,Home & Garden,Decor,South,Premium,3615.16,36,113952.8,11784.37,1.9
+2025-03-30,Home & Garden,Furniture,West,Premium,4576.54,49,200747.8,38885.96,2.5
+2025-03-31,Clothing,Accessories,South,Wholesale,4005.56,28,124676.91,15857.83,4.9
+2025-04-01,Electronics,Cameras,East,Online,1958.33,30,49020.89,2502.44,3.8
+2025-04-02,Sports,Cycling,West,Retail,2426.23,41,87170.76,29639.91,4.4
+2025-04-03,Sports,Cycling,West,Wholesale,3898.99,45,172333.63,53277.73,3.2
+2025-04-04,Electronics,Cameras,Central,Online,1470.05,14,24122.08,4923.55,2.0
+2025-04-05,Home & Garden,Kitchen,North,Retail,4021.37,49,201924.27,25492.07,3.9
+2025-04-06,Clothing,Men,South,Premium,1647.08,26,40900.04,10547.82,3.0
+2025-04-07,Clothing,Footwear,Central,Premium,4031.89,46,220955.68,39869.31,1.7
+2025-04-08,Books,Non-Fiction,East,Wholesale,443.13,6,2620.19,762.49,2.6
+2025-04-09,Sports,Team Sports,South,Wholesale,231.54,5,1127.01,394.29,
+2025-04-10,Sports,Water Sports,South,Retail,4988.4,44,211732.34,32760.24,3.9
+2025-04-11,Books,Art,South,Online,4348.59,33,132722.35,16367.44,2.0
+2025-04-12,Food & Beverage,Beverages,East,Retail,4415.41,9,36968.03,4813.78,4.5
+2025-04-13,Books,Non-Fiction,South,Wholesale,4756.89,44,225029.12,17553.14,2.5
+2025-04-14,Sports,Water Sports,West,Online,2197.2,6,10761.9,1810.3,2.1
