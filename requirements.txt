@@ -1,7 +1,7 @@
-streamlit	1.56.0	Web framework & UI
-pandas	3.0.2	Data manipulation
-plotly	6.7.0	Interactive charts
-numpy	2.4.4	Numerical operations
-openpyxl	3.1.5	Excel (.xlsx) read/write
-xlrd	2.0.2	Excel (.xls) read
-kaleido	1.2.0	Chart export to PNG
+streamlit==1.56.0
+pandas==3.0.2
+plotly==6.7.0
+numpy==2.4.4
+openpyxl==3.1.5
+xlrd==2.0.2
+streamlit-plotly-events==0.6.0
