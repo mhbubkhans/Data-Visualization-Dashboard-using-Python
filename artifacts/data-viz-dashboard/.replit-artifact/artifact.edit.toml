@@ -1,0 +1,13 @@
+kind = "web"
+previewPath = "/"
+title = "Data Viz Dashboard"
+version = "1.0.0"
+id = "default-data-viz-dashboard"
+
+[[services]]
+localPort = 5000
+name = "web"
+paths = ["/"]
+
+[services.development]
+run = "cd artifacts/data-viz-dashboard && streamlit run app.py --server.port 5000"

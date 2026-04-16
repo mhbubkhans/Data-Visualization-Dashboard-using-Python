@@ -1,0 +1,21 @@
+kind = "web"
+previewPath = "/"
+title = "Data Viz Dashboard"
+version = "1.0.0"
+id = "artifacts/streamlit-app"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 20090
+
+[services.development]
+run = "cd /home/runner/workspace/artifacts/data-viz-dashboard && streamlit run app.py --server.port $PORT"
+
+[services.env]
+PORT = "20090"
